@@ -1,0 +1,60 @@
+﻿Построение начато 18.09.2012 9:11:32.
+     1>Проект "E:\YandexDisk\OpenMP Code\matrices\matrices\matrices.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\matrices.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       GenerateTargetFrameworkMonikerAttribute:
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /MP /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /openmp /Yu"StdAfx.h" /Fp"Debug\matrices.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt matrices.cpp /clr:nostdlib 
+         matrices.cpp
+     1>matrices.cpp(42): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>matrices.cpp(99): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 matrices.cpp(79): пропуск определения "i"
+                 matrices.cpp(19): используется определение "i"
+     1>matrices.cpp(99): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 matrices.cpp(79): пропуск определения "i"
+                 matrices.cpp(19): используется определение "i"
+     1>matrices.cpp(99): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 matrices.cpp(79): пропуск определения "i"
+                 matrices.cpp(19): используется определение "i"
+     1>matrices.cpp(100): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 matrices.cpp(79): пропуск определения "i"
+                 matrices.cpp(19): используется определение "i"
+     1>matrices.cpp(125): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>matrices.cpp(202): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(304): см. объявление "scanf"
+     1>matrices.cpp(205): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(304): см. объявление "scanf"
+     1>matrices.cpp(209): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(304): см. объявление "scanf"
+     1>matrices.cpp(212): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(304): см. объявление "scanf"
+     1>matrices.cpp(215): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(304): см. объявление "scanf"
+     1>matrices.cpp(218): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(304): см. объявление "scanf"
+     1>matrices.cpp(199): warning C4101: parallel_duration: неиспользованная локальная переменная
+     1>matrices.cpp(199): warning C4101: linear_duration: неиспользованная локальная переменная
+     1>matrices.cpp(199): warning C4101: parallel_seidel_duration: неиспользованная локальная переменная
+     1>matrices.cpp(199): warning C4101: linear_siedel_duration: неиспользованная локальная переменная
+         Для всех выходных данных обновления не требуется.
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Наталья\documents\visual studio 2010\Projects\ompwave\Debug\matrices.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\matrices.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Наталья\documents\visual studio 2010\Projects\ompwave\Debug\matrices.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\matrices.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         matrices.vcxproj -> C:\Users\Наталья\documents\visual studio 2010\Projects\ompwave\Debug\matrices.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Наталья\documents\visual studio 2010\Projects\ompwave\Debug\matrices.exe;#1" /manifest Debug\matrices.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\matrices.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\matrices.lastbuildstate".
+     1>Построение проекта "E:\YandexDisk\OpenMP Code\matrices\matrices\matrices.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.81

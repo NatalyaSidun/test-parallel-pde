@@ -1,0 +1,42 @@
+﻿Построение начато 08.09.2012 19:26:02.
+     1>Проект "E:\YandexDisk\OpenMP Code\helloworld\helloopenmp\helloopenmp\helloopenmp.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\helloopenmp.unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /Wall /WX- /MP /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /openmp /Yu"StdAfx.h" /Fp"Debug\helloopenmp.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt cylinder.cpp helloopenmp.cpp
+     1>cl : командная строка warning D9030: "/Gm" несовместим с многопроцессорной обработкой; ключ /MP игнорируется
+         helloopenmp.cpp
+     1>e:\yandexdisk\openmp code\helloworld\helloopenmp\helloopenmp\helloopenmp.cpp(18): error C2057: требуется константное выражение
+     1>e:\yandexdisk\openmp code\helloworld\helloopenmp\helloopenmp\helloopenmp.cpp(18): error C2466: невозможно выделить память для массива постоянного нулевого размера
+     1>e:\yandexdisk\openmp code\helloworld\helloopenmp\helloopenmp\helloopenmp.cpp(18): error C2057: требуется константное выражение
+     1>e:\yandexdisk\openmp code\helloworld\helloopenmp\helloopenmp\helloopenmp.cpp(18): error C2466: невозможно выделить память для массива постоянного нулевого размера
+     1>e:\yandexdisk\openmp code\helloworld\helloopenmp\helloopenmp\helloopenmp.cpp(18): error C2087: conc: отсутствует индекс
+     1>e:\yandexdisk\openmp code\helloworld\helloopenmp\helloopenmp\helloopenmp.cpp(25): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>e:\yandexdisk\openmp code\helloworld\helloopenmp\helloopenmp\helloopenmp.cpp(25): warning C4365: аргумент: преобразование "time_t" в "unsigned int", несоответствие типов со знаком и без
+     1>e:\yandexdisk\openmp code\helloworld\helloopenmp\helloopenmp\helloopenmp.cpp(42): warning C4244: =: преобразование "time_t" в "double", возможна потеря данных
+     1>e:\yandexdisk\openmp code\helloworld\helloopenmp\helloopenmp\helloopenmp.cpp(57): warning C4244: =: преобразование "time_t" в "double", возможна потеря данных
+     1>e:\yandexdisk\openmp code\helloworld\helloopenmp\helloopenmp\helloopenmp.cpp(79): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     1>e:\yandexdisk\openmp code\helloworld\helloopenmp\helloopenmp\helloopenmp.cpp(85): error C3861: GetRegress: идентификатор не найден
+     1>e:\yandexdisk\openmp code\helloworld\helloopenmp\helloopenmp\helloopenmp.cpp(90): warning C4552: <=: оператор не имеет результата; требуется оператор с побочным действием
+     1>e:\yandexdisk\openmp code\helloworld\helloopenmp\helloopenmp\helloopenmp.cpp(95): warning C4552: <=: оператор не имеет результата; требуется оператор с побочным действием
+     1>e:\yandexdisk\openmp code\helloworld\helloopenmp\helloopenmp\helloopenmp.cpp(98): warning C4552: <=: оператор не имеет результата; требуется оператор с побочным действием
+     1>e:\yandexdisk\openmp code\helloworld\helloopenmp\helloopenmp\helloopenmp.cpp(102): error C2296: ^: недопустимо, левый операнд имеет тип "double"
+     1>e:\yandexdisk\openmp code\helloworld\helloopenmp\helloopenmp\helloopenmp.cpp(102): error C2064: результатом вычисления фрагмента не является функция, принимающая 2 аргументов
+     1>e:\yandexdisk\openmp code\helloworld\helloopenmp\helloopenmp\helloopenmp.cpp(102): error C2296: ^: недопустимо, левый операнд имеет тип "double"
+     1>e:\yandexdisk\openmp code\helloworld\helloopenmp\helloopenmp\helloopenmp.cpp(102): error C3071: оператор "%" можно применить только к экземпляру класса ref или к типу значений
+     1>e:\yandexdisk\openmp code\helloworld\helloopenmp\helloopenmp\helloopenmp.cpp(102): error C2296: ^: недопустимо, левый операнд имеет тип "double"
+     1>e:\yandexdisk\openmp code\helloworld\helloopenmp\helloopenmp\helloopenmp.cpp(102): error C2064: результатом вычисления фрагмента не является функция, принимающая 2 аргументов
+     1>e:\yandexdisk\openmp code\helloworld\helloopenmp\helloopenmp\helloopenmp.cpp(106): error C2296: ^: недопустимо, левый операнд имеет тип "double"
+     1>e:\yandexdisk\openmp code\helloworld\helloopenmp\helloopenmp\helloopenmp.cpp(106): error C2296: ^: недопустимо, левый операнд имеет тип "double"
+     1>e:\yandexdisk\openmp code\helloworld\helloopenmp\helloopenmp\helloopenmp.cpp(106): error C2064: результатом вычисления фрагмента не является функция, принимающая 2 аргументов
+     1>e:\yandexdisk\openmp code\helloworld\helloopenmp\helloopenmp\helloopenmp.cpp(106): error C2296: ^: недопустимо, левый операнд имеет тип "double"
+     1>e:\yandexdisk\openmp code\helloworld\helloopenmp\helloopenmp\helloopenmp.cpp(106): error C2064: результатом вычисления фрагмента не является функция, принимающая 2 аргументов
+         cylinder.cpp
+     1>e:\yandexdisk\openmp code\helloworld\helloopenmp\helloopenmp\cylinder.cpp(1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "StdAfx.h"" в источник.
+         Создание кода...
+     1>Построение проекта "E:\YandexDisk\OpenMP Code\helloworld\helloopenmp\helloopenmp\helloopenmp.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:00.17
