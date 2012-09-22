@@ -1,0 +1,22 @@
+﻿Построение начато 09.09.2012 0:28:48.
+     1>Проект "C:\Users\Наталья\documents\visual studio 2010\Projects\dbconsole\dbconsole\dbconsole.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\dbconsole.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files\MySQL\MySQL Server 5.5\include" /I"C:\Program Files (x86)\boost\boost_1_51_0" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /MP /Od /Oy- /D WIN32 /D _DEBUG /D CPPCONN_PUBLIC_FUNC= /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /openmp /Yu"StdAfx.h" /Fp"Debug\dbconsole.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt dbconsole.cpp /clr:nostdlib 
+         dbconsole.cpp
+     1>c:\program files\mysql\mysql server 5.5\include\mysql_com.h(291): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fd"
+     1>c:\program files\mysql\mysql server 5.5\include\mysql_com.h(291): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files\mysql\mysql server 5.5\include\mysql_com.h(291): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files\mysql\mysql server 5.5\include\mysql_com.h(470): error C2065: SOCKET: необъявленный идентификатор
+     1>c:\program files\mysql\mysql server 5.5\include\mysql_com.h(470): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "s"
+     1>c:\program files\mysql\mysql server 5.5\include\mysql_com.h(471): error C2059: синтаксическая ошибка: )
+     1>dbconsole.cpp(43): error C3861: mysql_connect: идентификатор не найден
+     1>Построение проекта "C:\Users\Наталья\documents\visual studio 2010\Projects\dbconsole\dbconsole\dbconsole.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:00.70

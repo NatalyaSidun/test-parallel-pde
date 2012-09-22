@@ -1,0 +1,75 @@
+﻿Построение начато 18.09.2012 8:25:37.
+     1>Проект "C:\Users\Наталья\documents\visual studio 2010\Projects\ompwave\ompwave\ompwave.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\ompwave.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       GenerateTargetFrameworkMonikerAttribute:
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /MP /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /openmp /Yu"StdAfx.h" /Fp"Debug\ompwave.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt ompwave.cpp /clr:nostdlib 
+         ompwave.cpp
+     1>ompwave.cpp(63): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 ompwave.cpp(38): пропуск определения "i"
+                 ompwave.cpp(19): используется определение "i"
+     1>ompwave.cpp(63): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 ompwave.cpp(38): пропуск определения "i"
+                 ompwave.cpp(19): используется определение "i"
+     1>ompwave.cpp(63): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 ompwave.cpp(38): пропуск определения "i"
+                 ompwave.cpp(19): используется определение "i"
+     1>ompwave.cpp(64): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 ompwave.cpp(38): пропуск определения "i"
+                 ompwave.cpp(19): используется определение "i"
+     1>ompwave.cpp(82): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 ompwave.cpp(73): пропуск определения "i"
+                 ompwave.cpp(19): используется определение "i"
+     1>ompwave.cpp(116): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 ompwave.cpp(73): пропуск определения "i"
+                 ompwave.cpp(19): используется определение "i"
+     1>ompwave.cpp(116): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 ompwave.cpp(73): пропуск определения "i"
+                 ompwave.cpp(19): используется определение "i"
+     1>ompwave.cpp(116): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 ompwave.cpp(73): пропуск определения "i"
+                 ompwave.cpp(19): используется определение "i"
+     1>ompwave.cpp(117): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 ompwave.cpp(73): пропуск определения "i"
+                 ompwave.cpp(19): используется определение "i"
+     1>ompwave.cpp(84): warning C4101: j: неиспользованная локальная переменная
+     1>ompwave.cpp(84): warning C4101: i: неиспользованная локальная переменная
+     1>ompwave.cpp(126): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>ompwave.cpp(180): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(304): см. объявление "scanf"
+     1>ompwave.cpp(183): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(304): см. объявление "scanf"
+     1>ompwave.cpp(187): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(304): см. объявление "scanf"
+     1>ompwave.cpp(190): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(304): см. объявление "scanf"
+     1>ompwave.cpp(193): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(304): см. объявление "scanf"
+     1>ompwave.cpp(196): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(304): см. объявление "scanf"
+     1>ompwave.cpp(177): warning C4101: parallel_seidel_duration: неиспользованная локальная переменная
+     1>ompwave.cpp(177): warning C4101: linear_siedel_duration: неиспользованная локальная переменная
+     1>ompwave.cpp(177): warning C4101: duration: неиспользованная локальная переменная
+         Для всех выходных данных обновления не требуется.
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Наталья\documents\visual studio 2010\Projects\ompwave\Debug\ompwave.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\ompwave.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Наталья\documents\visual studio 2010\Projects\ompwave\Debug\ompwave.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\ompwave.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         ompwave.vcxproj -> C:\Users\Наталья\documents\visual studio 2010\Projects\ompwave\Debug\ompwave.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Наталья\documents\visual studio 2010\Projects\ompwave\Debug\ompwave.exe;#1" /manifest Debug\ompwave.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\ompwave.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\ompwave.lastbuildstate".
+     1>Построение проекта "C:\Users\Наталья\documents\visual studio 2010\Projects\ompwave\ompwave\ompwave.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:03.70
