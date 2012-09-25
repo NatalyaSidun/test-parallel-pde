@@ -22,7 +22,7 @@ int N, T, i, j, num_threads, Tstart, Tfinish, Nstart, Nfinish, Th, Nh;
 double s;
 
 std::fstream resFile;
-
+clock_t startlinear, finishlinear;
 inline double matrix_vector(int N, int T)
 {
 	double  **v = new  double*[N+1];
@@ -30,15 +30,12 @@ inline double matrix_vector(int N, int T)
             v[i]=new  double[T];
 
 	double *f =new  double [T];
-
-
-
 	double *r =new  double [N];
 
 
 	   for (j = 0; j <= T-1; j++ ) 
 		{ 
-			f[j] = rand();
+			f[j] = rand()%100;
 		}
 
 	  srand ( time(0) );
@@ -47,7 +44,7 @@ inline double matrix_vector(int N, int T)
 			{
 					for (int j = 0; j <= T-1; j++ ) 
 					{ 
-						v[i][j] = rand();
+						v[i][j] = rand()%100;
 					}
 			}
 	
@@ -75,9 +72,8 @@ inline double matrix_vector(int N, int T)
 				printf("\n");
 			}
 	getchar();*/
-double start = omp_get_wtime ();
-
-
+	//double start = omp_get_wtime ();
+	   startlinear = clock();
 	for ( int i = 0; i <= N-1; i++ ) 
 			{
 				
@@ -85,26 +81,27 @@ double start = omp_get_wtime ();
 
 					for ( j = 0; j <= T-1; j++ ) 
 					{ 
-						r[i]  += v[i][j] * f[j];
+						r[i] += sin(exp(v[i][j]) * cos(f[j]));
 					
 					}
-					
-				
 			}
+//double finish = omp_get_wtime ();
+ finishlinear = clock();
 
+ double duration = ( finishlinear - startlinear ) / (double) CLOCKS_PER_SEC;
 
-
-
-	double finish = omp_get_wtime ();
-	double wtick = omp_get_wtick( );
-
+	/*for ( j = 0; j <= T-1; j++ ) 
+					{ 
+						k[j]  = r[j] * f[j] * sin(r[j] * f[j])+cos(r[j] * f[j]);
+					}
+		double finish = omp_get_wtime ();*/
 	for ( i = 0; i <= N; i++)
         delete [] v[i];
 	delete [] v;
 	delete [] f;
 	delete [] r;
 
-	double duration = (finish - start);
+	//double duration = (finish - start);
 	return duration;
 }
 
@@ -115,16 +112,15 @@ inline double matrix_vector_parallel(int num_threads, int N, int T)
             v[i]=new  double[T];
 
 	double *f =new  double [T];
-
 	double *r =new  double [N];
 
+	 srand ( time(0) );
 
 	   for (j = 0; j <= T-1; j++ ) 
 		{ 
-			f[j] =  rand();
+			f[j] =  rand()%100;
 		}
-
-	  srand ( time(0) );
+	 
 
 	  for (i = 0; i <= N-1; i++ ) 
 			{
@@ -159,29 +155,36 @@ inline double matrix_vector_parallel(int num_threads, int N, int T)
 			}
 	getchar();*/
 	//double start = clock();
-	  double start=omp_get_wtime ();
 	  omp_set_num_threads(num_threads);
-
-#pragma omp parallel  shared(r, v)
+	double start=omp_get_wtime ();
+double k;
+#pragma omp parallel  
 	{
-	#pragma omp for private(i, j)  reduction(+:s)
+
+	#pragma omp for firstprivate(j) lastprivate(i) reduction(+: k)
 
 		for (i = 0; i <= N-1; i++ ) 
 			{
-			 s = 0;
 				r[i] = 0;
+				 k = 0;
 					for (j = 0; j <= T-1; j++ ) 
 					{ 
-						s += v[i][j] * f[j];
+						k += sin(exp(v[i][j]) * cos(f[j]));
 					
 					}
-					r[i] = s;
+				r[i] = k;
 			}
 
 
 	}
+
+/*#pragma omp parallel for 
+	for (j = 0; j <= T-1; j++ ) 
+					{ 
+						k[j] = r[j] * f[j] * sin(r[j] * f[j])+cos(r[j] * f[j]);
+					
+					}*/
 	double finish = omp_get_wtime();
-	double wtick = omp_get_wtick();
 
 	for ( i = 0; i <= N; i++)
         delete [] v[i];
@@ -226,21 +229,24 @@ int main(array<System::String ^> ^args)
 	{
 		for (T = Tstart; T <= Tfinish; T+=Th)
 		{
-			duration = matrix_vector(N, T);
-			//printf("Linear Time = %4.10f \n", duration);
+			if(N == T) 
+			{
+				duration = matrix_vector(N, T);
+				//printf("Linear Time = %4.10f \n", duration);
 
-			 printf(" T = %d \n   ", T);
+				printf(" T = %d \n   ", T);
 
-			  resFile << "T =  ", 
-			  resFile << T;
-		      resFile << "\n";
+				  resFile << "T =  ", 
+				  resFile << T;
+			      resFile << "\n";
 
-			 printf(" N = %d \n   ", N);
+				 printf(" N = %d \n   ", N);
 
 			 
-			  resFile << "N =  ", 
-			  resFile << N;
-		      resFile << "\n";
+				  resFile << "N =  ", 
+			      resFile << N;
+				  resFile << "\n";
+			
 
 			for ( num_threads = 1; num_threads <= omp_get_num_procs(); num_threads *= 2 )
 			{
@@ -275,7 +281,7 @@ int main(array<System::String ^> ^args)
 				Console::WriteLine(L"................................... \n");
 			    resFile << "...................... \n";
 			}
-			
+			}			
 		}
 	}
 

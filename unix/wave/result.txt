@@ -1,0 +1,1030 @@
+T =  1000
+N =  100
+Num threads =  1
+Acceleration =   0.00374645
+...................... 
+Num threads =  2
+Acceleration =   -0.00263032
+...................... 
+Num threads =  4
+Acceleration =   -0.000650304
+...................... 
+----------//------------- 
+T =  2000
+N =  100
+Num threads =  1
+Acceleration =   -0.000791831
+...................... 
+Num threads =  2
+Acceleration =   -0.00556172
+...................... 
+Num threads =  4
+Acceleration =   -0.000936407
+...................... 
+----------//------------- 
+T =  3000
+N =  100
+Num threads =  1
+Acceleration =   -0.00190902
+...................... 
+Num threads =  2
+Acceleration =   -0.00639632
+...................... 
+Num threads =  4
+Acceleration =   0.00181155
+...................... 
+----------//------------- 
+T =  4000
+N =  100
+Num threads =  1
+Acceleration =   0.00299914
+...................... 
+Num threads =  2
+Acceleration =   -0.0108699
+...................... 
+Num threads =  4
+Acceleration =   0.00530693
+...................... 
+----------//------------- 
+T =  5000
+N =  100
+Num threads =  1
+Acceleration =   -0.0020025
+...................... 
+Num threads =  2
+Acceleration =   -0.00559588
+...................... 
+Num threads =  4
+Acceleration =   0.0171596
+...................... 
+----------//------------- 
+T =  6000
+N =  100
+Num threads =  1
+Acceleration =   0.00204519
+...................... 
+Num threads =  2
+Acceleration =   -0.000630289
+...................... 
+Num threads =  4
+Acceleration =   0.00855259
+...................... 
+----------//------------- 
+T =  7000
+N =  100
+Num threads =  1
+Acceleration =   -0.00321935
+...................... 
+Num threads =  2
+Acceleration =   0.000333602
+...................... 
+Num threads =  4
+Acceleration =   -0.000415206
+...................... 
+----------//------------- 
+T =  8000
+N =  100
+Num threads =  1
+Acceleration =   -0.000903275
+...................... 
+Num threads =  2
+Acceleration =   -0.00619712
+...................... 
+Num threads =  4
+Acceleration =   0.00722598
+...................... 
+----------//------------- 
+T =  9000
+N =  100
+Num threads =  1
+Acceleration =   -0.00317073
+...................... 
+Num threads =  2
+Acceleration =   -0.00160587
+...................... 
+Num threads =  4
+Acceleration =   0.00807132
+...................... 
+----------//------------- 
+T =  10000
+N =  100
+Num threads =  1
+Acceleration =   -0.00319156
+...................... 
+Num threads =  2
+Acceleration =   0.0017846
+...................... 
+Num threads =  4
+Acceleration =   0.00987102
+...................... 
+----------//------------- 
+T =  1000
+N =  200
+Num threads =  1
+Acceleration =   -0.00134992
+...................... 
+Num threads =  2
+Acceleration =   0.000487385
+...................... 
+Num threads =  4
+Acceleration =   -0.00126055
+...................... 
+----------//------------- 
+T =  2000
+N =  200
+Num threads =  1
+Acceleration =   -0.0018428
+...................... 
+Num threads =  2
+Acceleration =   0.00150865
+...................... 
+Num threads =  4
+Acceleration =   -0.00232617
+...................... 
+----------//------------- 
+T =  3000
+N =  200
+Num threads =  1
+Acceleration =   -0.00196673
+...................... 
+Num threads =  2
+Acceleration =   -0.0114805
+...................... 
+Num threads =  4
+Acceleration =   0.00125432
+...................... 
+----------//------------- 
+T =  4000
+N =  200
+Num threads =  1
+Acceleration =   -0.00198358
+...................... 
+Num threads =  2
+Acceleration =   0.00289588
+...................... 
+Num threads =  4
+Acceleration =   0.0038909
+...................... 
+----------//------------- 
+T =  5000
+N =  200
+Num threads =  1
+Acceleration =   -0.0027393
+...................... 
+Num threads =  2
+Acceleration =   0.00139891
+...................... 
+Num threads =  4
+Acceleration =   0.0128559
+...................... 
+----------//------------- 
+T =  6000
+N =  200
+Num threads =  1
+Acceleration =   -0.00122595
+...................... 
+Num threads =  2
+Acceleration =   -0.00632974
+...................... 
+Num threads =  4
+Acceleration =   0.0128862
+...................... 
+----------//------------- 
+T =  7000
+N =  200
+Num threads =  1
+Acceleration =   -0.00493553
+...................... 
+Num threads =  2
+Acceleration =   0.00434637
+...................... 
+Num threads =  4
+Acceleration =   0.0116298
+...................... 
+----------//------------- 
+T =  8000
+N =  200
+Num threads =  1
+Acceleration =   -0.00458667
+...................... 
+Num threads =  2
+Acceleration =   0.00969677
+...................... 
+Num threads =  4
+Acceleration =   0.0155737
+...................... 
+----------//------------- 
+T =  9000
+N =  200
+Num threads =  1
+Acceleration =   -0.00625682
+...................... 
+Num threads =  2
+Acceleration =   0.00826005
+...................... 
+Num threads =  4
+Acceleration =   0.0188296
+...................... 
+----------//------------- 
+T =  10000
+N =  200
+Num threads =  1
+Acceleration =   -0.00298707
+...................... 
+Num threads =  2
+Acceleration =   0.0181335
+...................... 
+Num threads =  4
+Acceleration =   0.0236128
+...................... 
+----------//------------- 
+T =  1000
+N =  300
+Num threads =  1
+Acceleration =   -0.00107693
+...................... 
+Num threads =  2
+Acceleration =   -0.00176222
+...................... 
+Num threads =  4
+Acceleration =   -0.00206181
+...................... 
+----------//------------- 
+T =  2000
+N =  300
+Num threads =  1
+Acceleration =   -0.0033867
+...................... 
+Num threads =  2
+Acceleration =   0.00189167
+...................... 
+Num threads =  4
+Acceleration =   -0.00141898
+...................... 
+----------//------------- 
+T =  3000
+N =  300
+Num threads =  1
+Acceleration =   -0.0019037
+...................... 
+Num threads =  2
+Acceleration =   0.0023388
+...................... 
+Num threads =  4
+Acceleration =   0.00732427
+...................... 
+----------//------------- 
+T =  4000
+N =  300
+Num threads =  1
+Acceleration =   -0.00396371
+...................... 
+Num threads =  2
+Acceleration =   0.00288295
+...................... 
+Num threads =  4
+Acceleration =   0.0128534
+...................... 
+----------//------------- 
+T =  5000
+N =  300
+Num threads =  1
+Acceleration =   -0.00635346
+...................... 
+Num threads =  2
+Acceleration =   0.00163965
+...................... 
+Num threads =  4
+Acceleration =   0.0103821
+...................... 
+----------//------------- 
+T =  6000
+N =  300
+Num threads =  1
+Acceleration =   0.000347322
+...................... 
+Num threads =  2
+Acceleration =   0.00804346
+...................... 
+Num threads =  4
+Acceleration =   0.0281325
+...................... 
+----------//------------- 
+T =  7000
+N =  300
+Num threads =  1
+Acceleration =   -0.00617862
+...................... 
+Num threads =  2
+Acceleration =   0.0135949
+...................... 
+Num threads =  4
+Acceleration =   0.02329
+...................... 
+----------//------------- 
+T =  8000
+N =  300
+Num threads =  1
+Acceleration =   -0.00236861
+...................... 
+Num threads =  2
+Acceleration =   0.0108495
+...................... 
+Num threads =  4
+Acceleration =   0.0365054
+...................... 
+----------//------------- 
+T =  9000
+N =  300
+Num threads =  1
+Acceleration =   -0.00980633
+...................... 
+Num threads =  2
+Acceleration =   0.0144549
+...................... 
+Num threads =  4
+Acceleration =   0.0401378
+...................... 
+----------//------------- 
+T =  10000
+N =  300
+Num threads =  1
+Acceleration =   -0.00713372
+...................... 
+Num threads =  2
+Acceleration =   0.0251825
+...................... 
+Num threads =  4
+Acceleration =   0.0371379
+...................... 
+----------//------------- 
+T =  1000
+N =  400
+Num threads =  1
+Acceleration =   0.00239454
+...................... 
+Num threads =  2
+Acceleration =   -0.00447375
+...................... 
+Num threads =  4
+Acceleration =   0.00166315
+...................... 
+----------//------------- 
+T =  2000
+N =  400
+Num threads =  1
+Acceleration =   -0.00176143
+...................... 
+Num threads =  2
+Acceleration =   -0.00704798
+...................... 
+Num threads =  4
+Acceleration =   -0.000354811
+...................... 
+----------//------------- 
+T =  3000
+N =  400
+Num threads =  1
+Acceleration =   -0.00167031
+...................... 
+Num threads =  2
+Acceleration =   0.00455893
+...................... 
+Num threads =  4
+Acceleration =   0.0121368
+...................... 
+----------//------------- 
+T =  4000
+N =  400
+Num threads =  1
+Acceleration =   -0.00567017
+...................... 
+Num threads =  2
+Acceleration =   0.00980712
+...................... 
+Num threads =  4
+Acceleration =   0.0158376
+...................... 
+----------//------------- 
+T =  5000
+N =  400
+Num threads =  1
+Acceleration =   -0.00385516
+...................... 
+Num threads =  2
+Acceleration =   0.0132561
+...................... 
+Num threads =  4
+Acceleration =   0.0310544
+...................... 
+----------//------------- 
+T =  6000
+N =  400
+Num threads =  1
+Acceleration =   -0.0087546
+...................... 
+Num threads =  2
+Acceleration =   0.0154582
+...................... 
+Num threads =  4
+Acceleration =   0.0374132
+...................... 
+----------//------------- 
+T =  7000
+N =  400
+Num threads =  1
+Acceleration =   -0.00853825
+...................... 
+Num threads =  2
+Acceleration =   0.0133215
+...................... 
+Num threads =  4
+Acceleration =   0.03474
+...................... 
+----------//------------- 
+T =  8000
+N =  400
+Num threads =  1
+Acceleration =   -0.0127357
+...................... 
+Num threads =  2
+Acceleration =   0.0229348
+...................... 
+Num threads =  4
+Acceleration =   0.0464749
+...................... 
+----------//------------- 
+T =  9000
+N =  400
+Num threads =  1
+Acceleration =   -0.0115932
+...................... 
+Num threads =  2
+Acceleration =   0.0291521
+...................... 
+Num threads =  4
+Acceleration =   0.0493674
+...................... 
+----------//------------- 
+T =  10000
+N =  400
+Num threads =  1
+Acceleration =   -0.01509
+...................... 
+Num threads =  2
+Acceleration =   0.0299409
+...................... 
+Num threads =  4
+Acceleration =   0.0545472
+...................... 
+----------//------------- 
+T =  1000
+N =  500
+T =  2000
+N =  500
+Num threads =  1
+Acceleration =   -0.00510976
+...................... 
+Num threads =  2
+Acceleration =   0.00745637
+...................... 
+Num threads =  4
+Acceleration =   0.00380112
+...................... 
+----------//------------- 
+T =  3000
+N =  500
+Num threads =  1
+Acceleration =   -0.00289799
+...................... 
+Num threads =  2
+Acceleration =   0.00269812
+...................... 
+Num threads =  4
+Acceleration =   0.0152268
+...................... 
+----------//------------- 
+T =  4000
+N =  500
+Num threads =  1
+Acceleration =   -0.00533695
+...................... 
+Num threads =  2
+Acceleration =   0.0134374
+...................... 
+Num threads =  4
+Acceleration =   0.0256879
+...................... 
+----------//------------- 
+T =  5000
+N =  500
+Num threads =  1
+Acceleration =   -0.00738369
+...................... 
+Num threads =  2
+Acceleration =   0.0168533
+...................... 
+Num threads =  4
+Acceleration =   0.0303073
+...................... 
+----------//------------- 
+T =  6000
+N =  500
+Num threads =  1
+Acceleration =   -0.0102756
+...................... 
+Num threads =  2
+Acceleration =   0.016238
+...................... 
+Num threads =  4
+Acceleration =   0.039734
+...................... 
+----------//------------- 
+T =  7000
+N =  500
+Num threads =  1
+Acceleration =   -0.0114661
+...................... 
+Num threads =  2
+Acceleration =   0.0212182
+...................... 
+Num threads =  4
+Acceleration =   0.047856
+...................... 
+----------//------------- 
+T =  8000
+N =  500
+Num threads =  1
+Acceleration =   -0.0148646
+...................... 
+Num threads =  2
+Acceleration =   0.0294049
+...................... 
+Num threads =  4
+Acceleration =   0.0542344
+...................... 
+----------//------------- 
+T =  9000
+N =  500
+Num threads =  1
+Acceleration =   -0.0177791
+...................... 
+Num threads =  2
+Acceleration =   0.0310906
+...................... 
+Num threads =  4
+Acceleration =   0.0567702
+...................... 
+----------//------------- 
+T =  10000
+N =  500
+Num threads =  1
+Acceleration =   -0.0206726
+...................... 
+Num threads =  2
+Acceleration =   0.035732
+...................... 
+Num threads =  4
+Acceleration =   0.0721236
+...................... 
+----------//------------- 
+T =  1000
+N =  600
+T =  2000
+N =  600
+Num threads =  1
+Acceleration =   -0.00613268
+...................... 
+Num threads =  2
+Acceleration =   0.00233543
+...................... 
+Num threads =  4
+Acceleration =   0.00530347
+...................... 
+----------//------------- 
+T =  3000
+N =  600
+Num threads =  1
+Acceleration =   -0.0072414
+...................... 
+Num threads =  2
+Acceleration =   0.0122205
+...................... 
+Num threads =  4
+Acceleration =   0.0191688
+...................... 
+----------//------------- 
+T =  4000
+N =  600
+Num threads =  1
+Acceleration =   -0.00566204
+...................... 
+Num threads =  2
+Acceleration =   0.0160932
+...................... 
+Num threads =  4
+Acceleration =   0.0365919
+...................... 
+----------//------------- 
+T =  5000
+N =  600
+Num threads =  1
+Acceleration =   -0.00946576
+...................... 
+Num threads =  2
+Acceleration =   0.0238047
+...................... 
+Num threads =  4
+Acceleration =   0.0351412
+...................... 
+----------//------------- 
+T =  6000
+N =  600
+Num threads =  1
+Acceleration =   -0.0148991
+...................... 
+Num threads =  2
+Acceleration =   0.0230076
+...................... 
+Num threads =  4
+Acceleration =   0.052254
+...................... 
+----------//------------- 
+T =  7000
+N =  600
+Num threads =  1
+Acceleration =   -0.0166381
+...................... 
+Num threads =  2
+Acceleration =   0.0287053
+...................... 
+Num threads =  4
+Acceleration =   0.0565863
+...................... 
+----------//------------- 
+T =  8000
+N =  600
+Num threads =  1
+Acceleration =   -0.0206874
+...................... 
+Num threads =  2
+Acceleration =   0.0367965
+...................... 
+Num threads =  4
+Acceleration =   0.0666197
+...................... 
+----------//------------- 
+T =  9000
+N =  600
+Num threads =  1
+Acceleration =   -0.0228952
+...................... 
+Num threads =  2
+Acceleration =   0.0381625
+...................... 
+Num threads =  4
+Acceleration =   0.077976
+...................... 
+----------//------------- 
+T =  10000
+N =  600
+Num threads =  1
+Acceleration =   -0.0221242
+...................... 
+Num threads =  2
+Acceleration =   0.0458267
+...................... 
+Num threads =  4
+Acceleration =   0.0814751
+...................... 
+----------//------------- 
+T =  1000
+N =  700
+T =  2000
+N =  700
+Num threads =  1
+Acceleration =   -0.00642923
+...................... 
+Num threads =  2
+Acceleration =   0.00685178
+...................... 
+Num threads =  4
+Acceleration =   0.00786343
+...................... 
+----------//------------- 
+T =  3000
+N =  700
+Num threads =  1
+Acceleration =   -0.00791828
+...................... 
+Num threads =  2
+Acceleration =   0.0100865
+...................... 
+Num threads =  4
+Acceleration =   0.0267572
+...................... 
+----------//------------- 
+T =  4000
+N =  700
+Num threads =  1
+Acceleration =   -0.0084198
+...................... 
+Num threads =  2
+Acceleration =   0.0168719
+...................... 
+Num threads =  4
+Acceleration =   0.0412674
+...................... 
+----------//------------- 
+T =  5000
+N =  700
+Num threads =  1
+Acceleration =   -0.0165194
+...................... 
+Num threads =  2
+Acceleration =   0.0166835
+...................... 
+Num threads =  4
+Acceleration =   0.0411422
+...................... 
+----------//------------- 
+T =  6000
+N =  700
+Num threads =  1
+Acceleration =   -0.0142076
+...................... 
+Num threads =  2
+Acceleration =   0.0311912
+...................... 
+Num threads =  4
+Acceleration =   0.061749
+...................... 
+----------//------------- 
+T =  7000
+N =  700
+Num threads =  1
+Acceleration =   -0.0189876
+...................... 
+Num threads =  2
+Acceleration =   0.0347124
+...................... 
+Num threads =  4
+Acceleration =   0.0712452
+...................... 
+----------//------------- 
+T =  8000
+N =  700
+Num threads =  1
+Acceleration =   -0.0230748
+...................... 
+Num threads =  2
+Acceleration =   0.0391397
+...................... 
+Num threads =  4
+Acceleration =   0.071018
+...................... 
+----------//------------- 
+T =  9000
+N =  700
+Num threads =  1
+Acceleration =   -0.0265437
+...................... 
+Num threads =  2
+Acceleration =   0.0445346
+...................... 
+Num threads =  4
+Acceleration =   0.0933152
+...................... 
+----------//------------- 
+T =  10000
+N =  700
+Num threads =  1
+Acceleration =   -0.0296364
+...................... 
+Num threads =  2
+Acceleration =   0.0559991
+...................... 
+Num threads =  4
+Acceleration =   0.095951
+...................... 
+----------//------------- 
+T =  1000
+N =  800
+T =  2000
+N =  800
+Num threads =  1
+Acceleration =   -0.00640056
+...................... 
+Num threads =  2
+Acceleration =   0.00514282
+...................... 
+Num threads =  4
+Acceleration =   0.0176175
+...................... 
+----------//------------- 
+T =  3000
+N =  800
+Num threads =  1
+Acceleration =   -0.00931592
+...................... 
+Num threads =  2
+Acceleration =   0.0126171
+...................... 
+Num threads =  4
+Acceleration =   0.0284599
+...................... 
+----------//------------- 
+T =  4000
+N =  800
+Num threads =  1
+Acceleration =   -0.0118087
+...................... 
+Num threads =  2
+Acceleration =   0.0222313
+...................... 
+Num threads =  4
+Acceleration =   0.0266653
+...................... 
+----------//------------- 
+T =  5000
+N =  800
+Num threads =  1
+Acceleration =   -0.0158617
+...................... 
+Num threads =  2
+Acceleration =   0.0229374
+...................... 
+Num threads =  4
+Acceleration =   0.0420251
+...................... 
+----------//------------- 
+T =  6000
+N =  800
+Num threads =  1
+Acceleration =   -0.0165777
+...................... 
+Num threads =  2
+Acceleration =   0.0345196
+...................... 
+Num threads =  4
+Acceleration =   0.0642378
+...................... 
+----------//------------- 
+T =  7000
+N =  800
+Num threads =  1
+Acceleration =   -0.0202353
+...................... 
+Num threads =  2
+Acceleration =   0.0407513
+...................... 
+Num threads =  4
+Acceleration =   0.0772658
+...................... 
+----------//------------- 
+T =  8000
+N =  800
+Num threads =  1
+Acceleration =   -0.0270571
+...................... 
+Num threads =  2
+Acceleration =   0.0529714
+...................... 
+Num threads =  4
+Acceleration =   0.08687
+...................... 
+----------//------------- 
+T =  9000
+N =  800
+Num threads =  1
+Acceleration =   -0.029527
+...................... 
+Num threads =  2
+Acceleration =   0.0604199
+...................... 
+Num threads =  4
+Acceleration =   0.106652
+...................... 
+----------//------------- 
+T =  10000
+N =  800
+Num threads =  1
+Acceleration =   -0.0335811
+...................... 
+Num threads =  2
+Acceleration =   0.0672115
+...................... 
+Num threads =  4
+Acceleration =   0.116251
+...................... 
+----------//------------- 
+T =  1000
+N =  900
+T =  2000
+N =  900
+Num threads =  1
+Acceleration =   -0.00611573
+...................... 
+Num threads =  2
+Acceleration =   -0.00363837
+...................... 
+Num threads =  4
+Acceleration =   0.0191201
+...................... 
+----------//------------- 
+T =  3000
+N =  900
+Num threads =  1
+Acceleration =   -0.0086609
+...................... 
+Num threads =  2
+Acceleration =   0.0122504
+...................... 
+Num threads =  4
+Acceleration =   0.0401825
+...................... 
+----------//------------- 
+T =  4000
+N =  900
+Num threads =  1
+Acceleration =   -0.0145681
+...................... 
+Num threads =  2
+Acceleration =   0.0272156
+...................... 
+Num threads =  4
+Acceleration =   0.0411394
+...................... 
+----------//------------- 
+T =  5000
+N =  900
+Num threads =  1
+Acceleration =   -0.016379
+...................... 
+Num threads =  2
+Acceleration =   0.0362091
+...................... 
+Num threads =  4
+Acceleration =   0.0618097
+...................... 
+----------//------------- 
+T =  6000
+N =  900
+Num threads =  1
+Acceleration =   -0.0202254
+...................... 
+Num threads =  2
+Acceleration =   0.0339574
+...................... 
+Num threads =  4
+Acceleration =   0.0777442
+...................... 
+----------//------------- 
+T =  7000
+N =  900
+Num threads =  1
+Acceleration =   -0.0266272
+...................... 
+Num threads =  2
+Acceleration =   0.0451935
+...................... 
+Num threads =  4
+Acceleration =   0.0848644
+...................... 
+----------//------------- 
+T =  8000
+N =  900
+Num threads =  1
+Acceleration =   -0.0287596
+...................... 
+Num threads =  2
+Acceleration =   0.0563556
+...................... 
+Num threads =  4
+Acceleration =   0.100613
+...................... 
+----------//------------- 
+T =  9000
+N =  900
+Num threads =  1
+Acceleration =   -0.0344681
+...................... 
+Num threads =  2
+Acceleration =   0.0649648
+...................... 
+Num threads =  4
+Acceleration =   0.118038
+...................... 
+----------//------------- 
+T =  10000
+N =  900
+Num threads =  1
+Acceleration =   -0.038365
+...................... 
+Num threads =  2
+Acceleration =   0.0746173
+...................... 
+Num threads =  4
+Acceleration =   0.126417
+...................... 
+----------//------------- 
