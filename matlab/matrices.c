@@ -15,8 +15,8 @@ double matrix_vector(int N, int T)
       for (i = 0; i<=N; i++)
             v[i]=new  double[T];
 
-	double *f =new  double [T];
-	double *r =new  double [N];
+	double *f = new  double [T];
+	double *r = new  double [N];
 
 
 	   for (j = 0; j <= T-1; j++ ) 

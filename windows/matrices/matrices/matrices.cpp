@@ -201,7 +201,7 @@ int main(array<System::String ^> ^args)
 {
    // Console::WriteLine(L"«дравствуй, мир!");
 
-	double duration, parallel_duration, linear_duration, linear_siedel_duration, parallel_seidel_duration;
+	double duration, parallel_duration, linear_duration;
 
 	Console::WriteLine(L"¬ведите минимальный размер матрицы: ");
 	scanf ("%d",&Nstart);
