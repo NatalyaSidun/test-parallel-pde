@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<log version="1.0" tool="runtool">
+
+<msg id="1" tool="runtool">
+  <type>log-start</type>
+  <arg>2012/10/07 09:56:01</arg>
+</msg>
+<msg id="2" tool="runtool">
+  <type>tc-starts</type>
+</msg>
+<msg id="3" tool="runtool">
+  <type>marker-file</type>
+  <arg>E:\YandexDisk\test-parallel-pde\windows\matrices\matrices\My Advisor Results - matrices\correctness\correctness.advi</arg>
+</msg>
+<msg id="4" tool="tc">
+  <type>2028</type>
+  <timestamp>Sun Oct 07 09:56:01 2012</timestamp>
+  <severity>2</severity>
+  <description>START</description>
+</msg>
+<msg id="5" tool="tc">
+  <type>2001</type>
+  <arg>E:\YandexDisk\test-parallel-pde\windows\matrices\Release\matrices.exe</arg>
+  <timestamp>Sun Oct 07 09:56:01 2012</timestamp>
+  <severity>2</severity>
+  <description>LOAD_MODULE</description>
+</msg>
+<msg id="6" tool="tc">
+  <type>2001</type>
+  <arg>C:\Windows\SYSTEM32\MSCOREE.DLL</arg>
+  <timestamp>Sun Oct 07 09:56:01 2012</timestamp>
+  <severity>2</severity>
+  <description>LOAD_MODULE</description>
+</msg>
+<msg id="7" tool="tc">
+  <type>2001</type>
+  <arg>C:\Windows\system32\apphelp.dll</arg>
+  <timestamp>Sun Oct 07 09:56:01 2012</timestamp>
+  <severity>2</severity>
+  <description>LOAD_MODULE</description>
+</msg>
+<msg id="8" tool="tc">
+  <type>2001</type>
+  <arg>C:\Windows\SYSTEM32\KERNEL32.dll</arg>
+  <timestamp>Sun Oct 07 09:56:01 2012</timestamp>
+  <severity>2</severity>
+  <description>LOAD_MODULE</description>
+</msg>
+<msg id="9" tool="tc">
+  <type>2001</type>
+  <arg>C:\Windows\SYSTEM32\KERNELBASE.dll</arg>
+  <timestamp>Sun Oct 07 09:56:01 2012</timestamp>
+  <severity>2</severity>
+  <description>LOAD_MODULE</description>
+</msg>
+<msg id="10" tool="tc">
+  <type>2001</type>
+  <arg>C:\Windows\SYSTEM32\ntdll.dll</arg>
+  <timestamp>Sun Oct 07 09:56:02 2012</timestamp>
+  <severity>2</severity>
+  <description>LOAD_MODULE</description>
+</msg>
+<msg id="11" tool="runtool">
+  <type>app-exit-code</type>
+  <arg>-1073741819</arg>
+</msg>
+<msg id="12" tool="runtool">
+  <type>marker-file</type>
+  <arg>E:\YandexDisk\test-parallel-pde\windows\matrices\matrices\My Advisor Results - matrices\correctness\correctness.advi</arg>
+</msg>
+<msg id="13" tool="runtool">
+  <type>tc-done</type>
+</msg>
+<msg id="14" tool="runtool">
+  <type>log-end</type>
+  <arg>2012/10/07 09:56:05</arg>
+</msg>
+
+</log>
+

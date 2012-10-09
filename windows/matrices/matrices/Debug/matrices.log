@@ -1,4 +1,4 @@
-﻿Построение начато 23.09.2012 10:44:29.
+﻿Построение начато 09.10.2012 1:08:43.
      1>Проект "E:\YandexDisk\test-parallel-pde\windows\matrices\matrices\matrices.vcxproj" в узле 2 (целевые объекты build).
      1>InitializeBuildStatus:
          Создание "Debug\matrices.unsuccessfulbuild", так как было задано "AlwaysCreate".
@@ -8,37 +8,7 @@
          Для всех выходных данных обновления не требуется.
          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /MP /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /fp:except- /Zc:wchar_t /Zc:forScope /GR /openmp /Yu"StdAfx.h" /Fp"Debug\matrices.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /FR"Debug\\" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt matrices.cpp /clr:nostdlib 
          matrices.cpp
-     1>matrices.cpp(41): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-     1>matrices.cpp(98): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
-                 matrices.cpp(77): пропуск определения "i"
-                 matrices.cpp(19): используется определение "i"
-     1>matrices.cpp(98): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
-                 matrices.cpp(77): пропуск определения "i"
-                 matrices.cpp(19): используется определение "i"
-     1>matrices.cpp(98): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
-                 matrices.cpp(77): пропуск определения "i"
-                 matrices.cpp(19): используется определение "i"
-     1>matrices.cpp(99): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
-                 matrices.cpp(77): пропуск определения "i"
-                 matrices.cpp(19): используется определение "i"
-     1>matrices.cpp(117): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-     1>matrices.cpp(207): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(304): см. объявление "scanf"
-     1>matrices.cpp(210): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(304): см. объявление "scanf"
-     1>matrices.cpp(214): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(304): см. объявление "scanf"
-     1>matrices.cpp(217): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(304): см. объявление "scanf"
-     1>matrices.cpp(220): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(304): см. объявление "scanf"
-     1>matrices.cpp(223): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(304): см. объявление "scanf"
-     1>matrices.cpp(204): warning C4101: parallel_duration: неиспользованная локальная переменная
-     1>matrices.cpp(204): warning C4101: linear_duration: неиспользованная локальная переменная
-     1>matrices.cpp(204): warning C4101: parallel_seidel_duration: неиспользованная локальная переменная
-     1>matrices.cpp(204): warning C4101: linear_siedel_duration: неиспользованная локальная переменная
-     1>e:\yandexdisk\test-parallel-pde\windows\matrices\matrices\matrices.cpp(109): warning C4700: использована неинициализированная локальная переменная "k"
+     1>e:\yandexdisk\test-parallel-pde\windows\matrices\matrices\matrices.cpp(168): warning C4700: использована неинициализированная локальная переменная "s"
          Для всех выходных данных обновления не требуется.
        ResourceCompile:
          Для всех выходных данных обновления не требуется.
@@ -60,4 +30,4 @@
 
 Построение успешно завершено.
 
-Затраченное время: 00:00:03.16
+Затраченное время: 00:00:03.17

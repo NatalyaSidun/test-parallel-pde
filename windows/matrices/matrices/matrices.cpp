@@ -19,7 +19,7 @@ double duration, duration_parallel, acceleration;
 int N, T, i, j, num_threads, Tstart, Tfinish, Nstart, Nfinish, Th, Nh;
 
 
-double s;
+double s,k;
 
 std::fstream resFile;
 clock_t startlinear, finishlinear;
@@ -29,8 +29,8 @@ inline double matrix_vector(int N, int T)
       for (i = 0; i<=N; i++)
             v[i]=new  double[T];
 
-	double *f =new  double [T];
-	double *r =new  double [N];
+	double *f =new  double[T];
+	double *r =new  double[N];
 
 
 	   for (j = 0; j <= T-1; j++ ) 
@@ -38,7 +38,7 @@ inline double matrix_vector(int N, int T)
 			f[j] = rand()%100;
 		}
 
-	  srand ( time(0) );
+	  srand ( 100 );
 
 	  for (i = 0; i <= N-1; i++ ) 
 			{
@@ -74,16 +74,14 @@ inline double matrix_vector(int N, int T)
 	getchar();*/
 	//double start = omp_get_wtime ();
 	   startlinear = clock();
-	for ( int i = 0; i <= N-1; i++ ) 
+	for ( i = 0; i <= N-1; i++ ) 
 			{
-				
-				r[i] = 0;
-
 					for ( j = 0; j <= T-1; j++ ) 
 					{ 
-						r[i] += sin(exp(v[i][j]) * cos(f[j]));
+						s += v[i][j] * f[j];
 					
 					}
+					r[i] = s;
 			}
 //double finish = omp_get_wtime ();
  finishlinear = clock();
@@ -111,10 +109,10 @@ inline double matrix_vector_parallel(int num_threads, int N, int T)
       for ( i = 0; i<=N; i++)
             v[i]=new  double[T];
 
-	double *f =new  double [T];
-	double *r =new  double [N];
+	double *f =new  double[T];
+	double *r =new  double[N];
 
-	 srand ( time(0) );
+	 srand ( 100 );
 
 	   for (j = 0; j <= T-1; j++ ) 
 		{ 
@@ -157,22 +155,21 @@ inline double matrix_vector_parallel(int num_threads, int N, int T)
 	//double start = clock();
 	  omp_set_num_threads(num_threads);
 	double start=omp_get_wtime ();
-double k;
-#pragma omp parallel  
+#pragma omp parallel shared (v, r, N, T) private(i, j, s)
 	{
 
-	#pragma omp for firstprivate(j) lastprivate(i) reduction(+: k)
+	#pragma omp for 
 
 		for (i = 0; i <= N-1; i++ ) 
-			{
-				r[i] = 0;
-				 k = 0;
+		{
+				  k = 0;
 					for (j = 0; j <= T-1; j++ ) 
 					{ 
-						k += sin(exp(v[i][j]) * cos(f[j]));
+						s += v[i][j] * f[j];
 					
 					}
-				r[i] = k;
+					r[i] = s;
+				
 			}
 
 
@@ -200,28 +197,33 @@ double k;
 int main(array<System::String ^> ^args)
 {
    // Console::WriteLine(L"«дравствуй, мир!");
+	Nstart = 1000;
+	Nfinish= 16000;
+	Tstart = 1000;
+	Tfinish = 16000;
+	Nh = 1000;
+	Th = 1000;
 
-	double duration, parallel_duration, linear_duration;
 
-	Console::WriteLine(L"¬ведите минимальный размер матрицы: ");
-	scanf ("%d",&Nstart);
+	/*Console::WriteLine(L"¬ведите минимальный размер матрицы: ");
+	//scanf_s ("%d",&Nstart);
 
 	Console::WriteLine(L"¬ведите максимальный размер матрицы: ");
-	scanf ("%d",&Nfinish);
+	scanf_s ("%d",&Nfinish);
 
 
 	Console::WriteLine(L"¬ведите минимальный размер вектора: ");
-	scanf ("%d",&Tstart);
+	scanf_s ("%d",&Tstart);
 
 	Console::WriteLine(L"¬ведите максимальный размер вектора: ");
-	scanf ("%d",&Tfinish);
+	scanf_s ("%d",&Tfinish);
 
 	Console::WriteLine(L"¬ведите шаг изменений размера матрицы: ");
-	scanf ("%d",&Nh);
+	scanf_s ("%d",&Nh);
 
 	Console::WriteLine(L"¬ведите шаг изменений размера вектора: ");
-	scanf ("%d",&Th);
-
+	scanf_s ("%d",&Th);
+	*/
 	resFile.open("result.txt", std::ios_base::out);
 
 
@@ -243,9 +245,9 @@ int main(array<System::String ^> ^args)
 				 printf(" N = %d \n   ", N);
 
 			 
-				  resFile << "N =  ", 
-			      resFile << N;
-				  resFile << "\n";
+				 resFile << "N =  ", 
+			     resFile << N;
+				 resFile << "\n";
 			
 
 			for ( num_threads = 1; num_threads <= omp_get_num_procs(); num_threads *= 2 )

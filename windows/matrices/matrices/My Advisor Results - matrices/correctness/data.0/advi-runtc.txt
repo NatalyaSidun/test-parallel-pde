@@ -1,0 +1,14 @@
+
+=== Start: [2012/10/07 09:56:01] ===
+Threading error analysis: started
+Result file: [E:\YandexDisk\test-parallel-pde\windows\matrices\matrices\My Advisor Results - matrices\correctness\correctness.advi]
+Loaded module: E:\YandexDisk\test-parallel-pde\windows\matrices\Release\matrices.exe 
+Loaded module: C:\Windows\SYSTEM32\MSCOREE.DLL 
+Loaded module: C:\Windows\system32\apphelp.dll 
+Loaded module: C:\Windows\SYSTEM32\KERNEL32.dll 
+Loaded module: C:\Windows\SYSTEM32\KERNELBASE.dll 
+Loaded module: C:\Windows\SYSTEM32\ntdll.dll 
+Application exit code: [-1073741819]
+Result file: [E:\YandexDisk\test-parallel-pde\windows\matrices\matrices\My Advisor Results - matrices\correctness\correctness.advi]
+Threading error analysis: completed
+=== End: [2012/10/07 09:56:05] ===

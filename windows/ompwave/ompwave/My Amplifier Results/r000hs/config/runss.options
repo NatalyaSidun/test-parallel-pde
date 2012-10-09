@@ -1,0 +1,17 @@
+-r
+E:\YandexDisk\test-parallel-pde\windows\ompwave\ompwave\My Amplifier Results\r000hs
+-type
+cpu:stack
+-interval
+10
+-no-follow-child
+-context-switch
+off
+-data-limit-mb
+10
+--search-dir
+sym:p=E:/YandexDisk/test-parallel-pde/windows/ompwave/Debug
+--search-dir
+sym=E:/YandexDisk/test-parallel-pde/windows/ompwave
+--
+E:\YandexDisk\test-parallel-pde\windows\ompwave\Debug\ompwave.exe

@@ -1,153 +1,255 @@
-T =  100
-N =  100
+T =  1000
+N =  1000
 Num threads =  1
-Linear Time =  0.007
-Parallel Time =  0.00706215
-Acceleration =   -6.21529e-005
+Linear Time =  0.005
+Parallel Time =  0.00626209
+Acceleration =   -0.00126209
 ...................... 
 Num threads =  2
-Linear Time =  0.007
-Parallel Time =  0.0294453
-Acceleration =   -0.0224453
+Linear Time =  0.005
+Parallel Time =  0.0293983
+Acceleration =   -0.0243983
 ...................... 
 Num threads =  4
-Linear Time =  0.007
-Parallel Time =  0.0840974
-Acceleration =   -0.0770974
+Linear Time =  0.005
+Parallel Time =  0.0605828
+Acceleration =   -0.0555828
 ...................... 
-T =  200
-N =  200
+T =  2000
+N =  2000
 Num threads =  1
-Linear Time =  0.024
-Parallel Time =  0.0987968
-Acceleration =   -0.0747968
+Linear Time =  0.022
+Parallel Time =  0.130843
+Acceleration =   -0.108843
 ...................... 
 Num threads =  2
-Linear Time =  0.024
-Parallel Time =  0.0380237
-Acceleration =   -0.0140237
+Linear Time =  0.022
+Parallel Time =  0.0370283
+Acceleration =   -0.0150283
 ...................... 
 Num threads =  4
-Linear Time =  0.024
-Parallel Time =  0.081367
-Acceleration =   -0.057367
+Linear Time =  0.022
+Parallel Time =  0.0678929
+Acceleration =   -0.0458929
 ...................... 
-T =  300
-N =  300
+T =  3000
+N =  3000
 Num threads =  1
-Linear Time =  0.051
-Parallel Time =  0.133703
-Acceleration =   -0.0827031
+Linear Time =  0.047
+Parallel Time =  0.12382
+Acceleration =   -0.0768196
 ...................... 
 Num threads =  2
-Linear Time =  0.051
-Parallel Time =  0.0515337
-Acceleration =   -0.000533723
+Linear Time =  0.047
+Parallel Time =  0.0505621
+Acceleration =   -0.00356205
 ...................... 
 Num threads =  4
-Linear Time =  0.051
-Parallel Time =  0.0704144
-Acceleration =   -0.0194144
+Linear Time =  0.047
+Parallel Time =  0.0414131
+Acceleration =   0.00558692
 ...................... 
-T =  400
-N =  400
+T =  4000
+N =  4000
 Num threads =  1
-Linear Time =  0.091
-Parallel Time =  0.170316
-Acceleration =   -0.0793161
+Linear Time =  0.085
+Parallel Time =  0.18541
+Acceleration =   -0.10041
 ...................... 
 Num threads =  2
-Linear Time =  0.091
-Parallel Time =  0.0736054
-Acceleration =   0.0173946
+Linear Time =  0.085
+Parallel Time =  0.0686387
+Acceleration =   0.0163613
 ...................... 
 Num threads =  4
-Linear Time =  0.091
-Parallel Time =  0.0891773
-Acceleration =   0.00182273
+Linear Time =  0.085
+Parallel Time =  0.0771274
+Acceleration =   0.00787264
 ...................... 
-T =  500
-N =  500
+T =  5000
+N =  5000
 Num threads =  1
-Linear Time =  0.148
-Parallel Time =  0.222531
-Acceleration =   -0.0745311
+Linear Time =  0.133
+Parallel Time =  0.221977
+Acceleration =   -0.0889766
 ...................... 
 Num threads =  2
-Linear Time =  0.148
-Parallel Time =  0.0984275
-Acceleration =   0.0495725
+Linear Time =  0.133
+Parallel Time =  0.0930133
+Acceleration =   0.0399867
 ...................... 
 Num threads =  4
-Linear Time =  0.148
-Parallel Time =  0.104513
-Acceleration =   0.0434873
+Linear Time =  0.133
+Parallel Time =  0.114647
+Acceleration =   0.0183534
 ...................... 
-T =  600
-N =  600
+T =  6000
+N =  6000
 Num threads =  1
-Linear Time =  0.202
-Parallel Time =  0.284792
-Acceleration =   -0.0827923
+Linear Time =  0.196
+Parallel Time =  0.301725
+Acceleration =   -0.105725
 ...................... 
 Num threads =  2
-Linear Time =  0.202
-Parallel Time =  0.130429
-Acceleration =   0.0715708
+Linear Time =  0.196
+Parallel Time =  0.12311
+Acceleration =   0.07289
 ...................... 
 Num threads =  4
-Linear Time =  0.202
-Parallel Time =  0.129309
-Acceleration =   0.0726908
+Linear Time =  0.196
+Parallel Time =  0.157636
+Acceleration =   0.0383645
 ...................... 
-T =  700
-N =  700
+T =  7000
+N =  7000
 Num threads =  1
-Linear Time =  0.273
-Parallel Time =  0.391606
-Acceleration =   -0.118606
+Linear Time =  0.265
+Parallel Time =  0.38986
+Acceleration =   -0.12486
 ...................... 
 Num threads =  2
-Linear Time =  0.273
-Parallel Time =  0.166565
-Acceleration =   0.106435
+Linear Time =  0.265
+Parallel Time =  0.231165
+Acceleration =   0.0338353
 ...................... 
 Num threads =  4
-Linear Time =  0.273
-Parallel Time =  0.129851
-Acceleration =   0.143149
+Linear Time =  0.265
+Parallel Time =  0.171806
+Acceleration =   0.0931938
 ...................... 
-T =  800
-N =  800
+T =  8000
+N =  8000
 Num threads =  1
-Linear Time =  0.359
-Parallel Time =  0.446235
-Acceleration =   -0.0872346
+Linear Time =  0.344
+Parallel Time =  0.47517
+Acceleration =   -0.13117
 ...................... 
 Num threads =  2
-Linear Time =  0.359
-Parallel Time =  0.21031
-Acceleration =   0.14869
+Linear Time =  0.344
+Parallel Time =  0.199951
+Acceleration =   0.144049
 ...................... 
 Num threads =  4
-Linear Time =  0.359
-Parallel Time =  0.23788
-Acceleration =   0.12112
+Linear Time =  0.344
+Parallel Time =  0.261705
+Acceleration =   0.082295
 ...................... 
-T =  900
-N =  900
+T =  9000
+N =  9000
 Num threads =  1
-Linear Time =  0.454
-Parallel Time =  0.621058
-Acceleration =   -0.167058
+Linear Time =  0.436
+Parallel Time =  0.566052
+Acceleration =   -0.130052
 ...................... 
 Num threads =  2
-Linear Time =  0.454
-Parallel Time =  0.258725
-Acceleration =   0.195275
+Linear Time =  0.436
+Parallel Time =  0.246536
+Acceleration =   0.189464
 ...................... 
 Num threads =  4
-Linear Time =  0.454
-Parallel Time =  0.178323
-Acceleration =   0.275677
+Linear Time =  0.436
+Parallel Time =  0.238233
+Acceleration =   0.197767
+...................... 
+T =  10000
+N =  10000
+Num threads =  1
+Linear Time =  0.538
+Parallel Time =  0.653189
+Acceleration =   -0.115189
+...................... 
+Num threads =  2
+Linear Time =  0.538
+Parallel Time =  0.299675
+Acceleration =   0.238325
+...................... 
+Num threads =  4
+Linear Time =  0.538
+Parallel Time =  0.254844
+Acceleration =   0.283156
+...................... 
+T =  11000
+N =  11000
+Num threads =  1
+Linear Time =  0.65
+Parallel Time =  0.73797
+Acceleration =   -0.0879697
+...................... 
+Num threads =  2
+Linear Time =  0.65
+Parallel Time =  0.568715
+Acceleration =   0.0812853
+...................... 
+Num threads =  4
+Linear Time =  0.65
+Parallel Time =  0.28368
+Acceleration =   0.36632
+...................... 
+T =  12000
+N =  12000
+Num threads =  1
+Linear Time =  0.776
+Parallel Time =  0.863289
+Acceleration =   -0.0872889
+...................... 
+Num threads =  2
+Linear Time =  0.776
+Parallel Time =  0.418449
+Acceleration =   0.357551
+...................... 
+Num threads =  4
+Linear Time =  0.776
+Parallel Time =  0.370556
+Acceleration =   0.405444
+...................... 
+T =  13000
+N =  13000
+Num threads =  1
+Linear Time =  0.911
+Parallel Time =  1.04553
+Acceleration =   -0.134532
+...................... 
+Num threads =  2
+Linear Time =  0.911
+Parallel Time =  0.48641
+Acceleration =   0.42459
+...................... 
+Num threads =  4
+Linear Time =  0.911
+Parallel Time =  0.332492
+Acceleration =   0.578508
+...................... 
+T =  14000
+N =  14000
+Num threads =  1
+Linear Time =  1.061
+Parallel Time =  1.17522
+Acceleration =   -0.114222
+...................... 
+Num threads =  2
+Linear Time =  1.061
+Parallel Time =  0.561049
+Acceleration =   0.499951
+...................... 
+Num threads =  4
+Linear Time =  1.061
+Parallel Time =  0.529275
+Acceleration =   0.531725
+...................... 
+T =  15000
+N =  15000
+Num threads =  1
+Linear Time =  1.211
+Parallel Time =  1.34944
+Acceleration =   -0.138443
+...................... 
+Num threads =  2
+Linear Time =  1.211
+Parallel Time =  1.01906
+Acceleration =   0.191939
+...................... 
+Num threads =  4
+Linear Time =  1.211
+Parallel Time =  0.500289
+Acceleration =   0.710711
 ...................... 

@@ -80,6 +80,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="app.ico" />
+    <None Include="My Amplifier Results\r000hs\r000hs.ampl" />
     <None Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>

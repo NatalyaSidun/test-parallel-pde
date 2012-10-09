@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE IntelParallelAdvisorAnnotationState SYSTEM "IntelParallelAdvisorAnnotationState.dtd"> -->
+<IntelParallelAdvisorAnnotationState
+  version="0.9.0"
+  database="E:\YandexDisk\test-parallel-pde\windows\matrices\matrices\My Advisor Results - matrices\annotations.advidb">
+  <statistics files="5" lines="346" />
+</IntelParallelAdvisorAnnotationState>
