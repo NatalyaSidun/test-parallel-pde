@@ -43,9 +43,9 @@ inline double right_boundary(double t)
 
 double parabol()
 {
-    double  **v = new  double*[N+1];
+    double  **v = new  double *[N+1];
       for (i = 0; i<=N; i++)
-            v[i]=new  double[K];
+            v[i]=new  double[K+1];
 
     double *x = new double[N+1];
     double *t = new double[K+1];
@@ -97,6 +97,65 @@ double parabol()
 	return duration;
 
 }
+
+double parallel_parabol(int num_threads)
+{
+    double  **v = new  double *[N+1];
+      for (i = 0; i<=N; i++)
+            v[i]=new  double[K+1];
+
+    double *x = new double[N+1];
+    double *t = new double[K+1];
+
+    h=L/N;
+    delta=T/K;
+ 
+    gam=koeff_teploprov * koeff_teploprov * delta/h*h;
+omp_set_num_threads(num_threads);
+    double start = omp_get_wtime ();
+   
+#pragma omp parallel shared (h, delta, x, t, K, N, v, gam) private (i,j)
+    {
+   #pragma omp for 
+      for(int i = 0; i <= N-1; i++)
+        {
+          x[i]=(i-1) * h;
+          for (j = 0;  j <= K-1; j++)
+          {
+            t[j]=(j-1) * delta;
+            if(j == 0)
+            {
+                 v[i][j] = initial_conditions(x[i]);
+            }
+            else if (i == 0)
+            {
+                v[i][j] = left_boundary(t[j]);
+                
+            }
+            else if (i == N-1)
+            {
+               v[i][j] = right_boundary(t[j]);
+            }
+            else
+            {
+                v[i][j+1] = gam * v[i-1][j] + (1-2*gam) * v[i][j] + gam * v[i+1][j] + delta * right_side(x[i],t[j]);
+            }
+            
+            
+        }
+    }
+  }
+    double finish = omp_get_wtime ();
+    double duration = (finish - start);
+	
+	for ( i = 0; i <= N; i++)
+        delete [] v[i];
+	delete [] v;
+    
+    delete [] x;
+    delete [] t;
+	return duration;
+}
 int main(array<System::String ^> ^args)
 {
     delta = 0.001;
@@ -109,6 +168,10 @@ int main(array<System::String ^> ^args)
     ro = 7,7*10^3;
 
     koeff_teploprov = lambda/c*ro;
-
+    int num_threads = omp_get_num_procs();
     double duration = parabol();
+    double parallel_duration = parallel_parabol(num_threads);
+    printf("duration = %10.10f \n", duration);
+    printf("parallel duration = %10.10f \n", parallel_duration);
+    getchar();
 }
