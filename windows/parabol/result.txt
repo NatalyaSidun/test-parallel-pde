@@ -12,1801 +12,1801 @@ time increment step Kh =  1000
 ----------Start Computing!------------- 
 K =  1000
 N =  1000
-Linear Duration =   0.20452
+Linear Duration =   0.201505
 Num threads =   1
-Parallel duration =   0.207858
-Acceleration =   -0.00333871
+Parallel duration =   0.203289
+Acceleration =   -0.00178395
 ...................... 
 Num threads =   2
-Parallel duration =   0.148305
-Acceleration =   0.0562145
+Parallel duration =   0.129097
+Acceleration =   0.0724081
 ...................... 
 Num threads =   3
-Parallel duration =   0.122447
-Acceleration =   0.0820728
+Parallel duration =   0.119921
+Acceleration =   0.0815841
 ...................... 
 Num threads =   4
-Parallel duration =   0.118555
-Acceleration =   0.0859643
+Parallel duration =   0.134563
+Acceleration =   0.0669422
 ...................... 
 ........../Finish iteration!/............ 
 K =  2000
 N =  1000
-Linear Duration =   0.403567
+Linear Duration =   0.411525
 Num threads =   1
-Parallel duration =   0.520012
-Acceleration =   -0.116444
+Parallel duration =   0.536209
+Acceleration =   -0.124684
 ...................... 
 Num threads =   2
-Parallel duration =   0.231986
-Acceleration =   0.171581
+Parallel duration =   0.229484
+Acceleration =   0.182042
 ...................... 
 Num threads =   3
-Parallel duration =   0.212133
-Acceleration =   0.191435
+Parallel duration =   0.189875
+Acceleration =   0.221651
 ...................... 
 Num threads =   4
-Parallel duration =   0.166964
-Acceleration =   0.236603
+Parallel duration =   0.160209
+Acceleration =   0.251317
 ...................... 
 ........../Finish iteration!/............ 
 K =  3000
 N =  1000
-Linear Duration =   0.609217
+Linear Duration =   0.600361
 Num threads =   1
-Parallel duration =   0.692993
-Acceleration =   -0.0837758
+Parallel duration =   0.715023
+Acceleration =   -0.114662
 ...................... 
 Num threads =   2
-Parallel duration =   0.333222
-Acceleration =   0.275995
+Parallel duration =   0.335199
+Acceleration =   0.265162
 ...................... 
 Num threads =   3
-Parallel duration =   0.257779
-Acceleration =   0.351438
+Parallel duration =   0.363416
+Acceleration =   0.236945
 ...................... 
 Num threads =   4
-Parallel duration =   0.278734
-Acceleration =   0.330483
+Parallel duration =   0.233082
+Acceleration =   0.367279
 ...................... 
 ........../Finish iteration!/............ 
 K =  4000
 N =  1000
-Linear Duration =   0.828181
+Linear Duration =   0.803307
 Num threads =   1
-Parallel duration =   0.898435
-Acceleration =   -0.0702546
+Parallel duration =   0.920629
+Acceleration =   -0.117322
 ...................... 
 Num threads =   2
-Parallel duration =   0.436728
-Acceleration =   0.391453
+Parallel duration =   0.434385
+Acceleration =   0.368922
 ...................... 
 Num threads =   3
-Parallel duration =   0.376308
-Acceleration =   0.451872
+Parallel duration =   0.413138
+Acceleration =   0.390169
 ...................... 
 Num threads =   4
-Parallel duration =   0.35734
-Acceleration =   0.47084
+Parallel duration =   0.27816
+Acceleration =   0.525147
 ...................... 
 ........../Finish iteration!/............ 
 K =  5000
 N =  1000
-Linear Duration =   1.03419
+Linear Duration =   1.01433
 Num threads =   1
-Parallel duration =   1.16482
-Acceleration =   -0.130633
+Parallel duration =   1.09788
+Acceleration =   -0.0835423
 ...................... 
 Num threads =   2
-Parallel duration =   0.539587
-Acceleration =   0.494602
+Parallel duration =   0.536793
+Acceleration =   0.477541
 ...................... 
 Num threads =   3
-Parallel duration =   0.415402
-Acceleration =   0.618787
+Parallel duration =   0.395505
+Acceleration =   0.618829
 ...................... 
 Num threads =   4
-Parallel duration =   0.346428
-Acceleration =   0.687761
+Parallel duration =   0.365955
+Acceleration =   0.648379
 ...................... 
 ........../Finish iteration!/............ 
 K =  6000
 N =  1000
-Linear Duration =   1.21163
+Linear Duration =   1.22051
 Num threads =   1
-Parallel duration =   1.33656
-Acceleration =   -0.124931
+Parallel duration =   1.31498
+Acceleration =   -0.0944657
 ...................... 
 Num threads =   2
-Parallel duration =   0.639962
-Acceleration =   0.571668
+Parallel duration =   0.636919
+Acceleration =   0.583594
 ...................... 
 Num threads =   3
-Parallel duration =   0.482297
-Acceleration =   0.729333
+Parallel duration =   0.467415
+Acceleration =   0.753098
 ...................... 
 Num threads =   4
-Parallel duration =   0.439886
-Acceleration =   0.771744
+Parallel duration =   0.496366
+Acceleration =   0.724146
 ...................... 
 ........../Finish iteration!/............ 
 K =  7000
 N =  1000
-Linear Duration =   1.41167
+Linear Duration =   1.41641
 Num threads =   1
-Parallel duration =   1.53963
-Acceleration =   -0.127956
+Parallel duration =   1.53039
+Acceleration =   -0.113987
 ...................... 
 Num threads =   2
-Parallel duration =   0.743244
-Acceleration =   0.668426
+Parallel duration =   0.734531
+Acceleration =   0.681875
 ...................... 
 Num threads =   3
-Parallel duration =   0.531371
-Acceleration =   0.880299
+Parallel duration =   0.56784
+Acceleration =   0.848566
 ...................... 
 Num threads =   4
-Parallel duration =   0.484573
-Acceleration =   0.927097
+Parallel duration =   0.568436
+Acceleration =   0.847971
 ...................... 
 ........../Finish iteration!/............ 
 K =  8000
 N =  1000
-Linear Duration =   1.62848
+Linear Duration =   1.62247
 Num threads =   1
-Parallel duration =   1.74225
-Acceleration =   -0.11377
+Parallel duration =   1.76197
+Acceleration =   -0.139491
 ...................... 
 Num threads =   2
-Parallel duration =   0.855923
-Acceleration =   0.772557
+Parallel duration =   0.840171
+Acceleration =   0.782303
 ...................... 
 Num threads =   3
-Parallel duration =   0.606811
-Acceleration =   1.02167
+Parallel duration =   0.60218
+Acceleration =   1.02029
 ...................... 
 Num threads =   4
-Parallel duration =   0.579507
-Acceleration =   1.04897
+Parallel duration =   0.574414
+Acceleration =   1.04806
 ...................... 
 ........../Finish iteration!/............ 
 K =  9000
 N =  1000
-Linear Duration =   1.82276
+Linear Duration =   1.82214
 Num threads =   1
-Parallel duration =   1.96923
-Acceleration =   -0.146465
+Parallel duration =   1.93368
+Acceleration =   -0.11154
 ...................... 
 Num threads =   2
-Parallel duration =   0.951456
-Acceleration =   0.871305
+Parallel duration =   0.939256
+Acceleration =   0.88288
 ...................... 
 Num threads =   3
-Parallel duration =   0.647755
-Acceleration =   1.17501
+Parallel duration =   0.664711
+Acceleration =   1.15742
 ...................... 
 Num threads =   4
-Parallel duration =   0.577895
-Acceleration =   1.24487
+Parallel duration =   0.62656
+Acceleration =   1.19558
 ...................... 
 ........../Finish iteration!/............ 
 K =  10000
 N =  1000
-Linear Duration =   2.04356
+Linear Duration =   2.02418
 Num threads =   1
-Parallel duration =   2.17546
-Acceleration =   -0.131908
+Parallel duration =   2.11453
+Acceleration =   -0.0903486
 ...................... 
 Num threads =   2
-Parallel duration =   1.05904
-Acceleration =   0.984517
+Parallel duration =   1.05151
+Acceleration =   0.972667
 ...................... 
 Num threads =   3
-Parallel duration =   0.733591
-Acceleration =   1.30997
+Parallel duration =   0.764755
+Acceleration =   1.25943
 ...................... 
 Num threads =   4
-Parallel duration =   0.588902
-Acceleration =   1.45465
+Parallel duration =   0.663696
+Acceleration =   1.36048
 ...................... 
 ........../Finish iteration!/............ 
 K =  1000
 N =  2000
-Linear Duration =   0.410986
+Linear Duration =   0.408902
 Num threads =   1
-Parallel duration =   0.526473
-Acceleration =   -0.115487
+Parallel duration =   0.529915
+Acceleration =   -0.121014
 ...................... 
 Num threads =   2
-Parallel duration =   0.230607
-Acceleration =   0.18038
+Parallel duration =   0.229152
+Acceleration =   0.17975
 ...................... 
 Num threads =   3
-Parallel duration =   0.289927
-Acceleration =   0.121059
+Parallel duration =   0.202013
+Acceleration =   0.206889
 ...................... 
 Num threads =   4
-Parallel duration =   0.296139
-Acceleration =   0.114848
+Parallel duration =   0.321873
+Acceleration =   0.087029
 ...................... 
 ........../Finish iteration!/............ 
 K =  2000
 N =  2000
-Linear Duration =   0.813504
+Linear Duration =   0.809842
 Num threads =   1
-Parallel duration =   0.949193
-Acceleration =   -0.135689
+Parallel duration =   0.941818
+Acceleration =   -0.131976
 ...................... 
 Num threads =   2
-Parallel duration =   0.436413
-Acceleration =   0.377091
+Parallel duration =   0.434442
+Acceleration =   0.375399
 ...................... 
 Num threads =   3
-Parallel duration =   0.333114
-Acceleration =   0.480389
+Parallel duration =   0.350182
+Acceleration =   0.45966
 ...................... 
 Num threads =   4
-Parallel duration =   0.312545
-Acceleration =   0.500958
+Parallel duration =   0.29244
+Acceleration =   0.517402
 ...................... 
 ........../Finish iteration!/............ 
 K =  3000
 N =  2000
-Linear Duration =   1.22445
+Linear Duration =   1.22153
 Num threads =   1
-Parallel duration =   1.36006
-Acceleration =   -0.13561
+Parallel duration =   1.33715
+Acceleration =   -0.115623
 ...................... 
 Num threads =   2
-Parallel duration =   0.640408
-Acceleration =   0.584041
+Parallel duration =   0.637565
+Acceleration =   0.583964
 ...................... 
 Num threads =   3
-Parallel duration =   0.464168
-Acceleration =   0.76028
+Parallel duration =   0.476064
+Acceleration =   0.745464
 ...................... 
 Num threads =   4
-Parallel duration =   0.489696
-Acceleration =   0.734752
+Parallel duration =   0.492299
+Acceleration =   0.72923
 ...................... 
 ........../Finish iteration!/............ 
 K =  4000
 N =  2000
-Linear Duration =   1.64163
+Linear Duration =   1.61491
 Num threads =   1
-Parallel duration =   1.8108
-Acceleration =   -0.169166
+Parallel duration =   1.70477
+Acceleration =   -0.0898573
 ...................... 
 Num threads =   2
-Parallel duration =   0.847919
-Acceleration =   0.793713
+Parallel duration =   0.839775
+Acceleration =   0.775134
 ...................... 
 Num threads =   3
-Parallel duration =   0.646311
-Acceleration =   0.995321
+Parallel duration =   0.625848
+Acceleration =   0.989062
 ...................... 
 Num threads =   4
-Parallel duration =   0.500716
-Acceleration =   1.14092
+Parallel duration =   0.542396
+Acceleration =   1.07251
 ...................... 
 ........../Finish iteration!/............ 
 K =  5000
 N =  2000
-Linear Duration =   2.06442
+Linear Duration =   2.01748
 Num threads =   1
-Parallel duration =   2.16723
-Acceleration =   -0.102806
+Parallel duration =   2.12791
+Acceleration =   -0.110437
 ...................... 
 Num threads =   2
-Parallel duration =   1.05565
-Acceleration =   1.00877
+Parallel duration =   1.05115
+Acceleration =   0.966328
 ...................... 
 Num threads =   3
-Parallel duration =   0.739991
-Acceleration =   1.32443
+Parallel duration =   0.750331
+Acceleration =   1.26714
 ...................... 
 Num threads =   4
-Parallel duration =   0.629049
-Acceleration =   1.43537
+Parallel duration =   0.640149
+Acceleration =   1.37733
 ...................... 
 ........../Finish iteration!/............ 
 K =  6000
 N =  2000
-Linear Duration =   2.4287
+Linear Duration =   2.4146
 Num threads =   1
-Parallel duration =   2.58553
-Acceleration =   -0.156822
+Parallel duration =   2.53905
+Acceleration =   -0.124454
 ...................... 
 Num threads =   2
-Parallel duration =   1.25254
-Acceleration =   1.17617
+Parallel duration =   1.24919
+Acceleration =   1.1654
 ...................... 
 Num threads =   3
-Parallel duration =   0.894404
-Acceleration =   1.5343
+Parallel duration =   0.865487
+Acceleration =   1.54911
 ...................... 
 Num threads =   4
-Parallel duration =   0.815653
-Acceleration =   1.61305
+Parallel duration =   0.761062
+Acceleration =   1.65354
 ...................... 
 ........../Finish iteration!/............ 
 K =  7000
 N =  2000
-Linear Duration =   2.83028
+Linear Duration =   2.83355
 Num threads =   1
-Parallel duration =   2.99139
-Acceleration =   -0.161103
+Parallel duration =   2.91592
+Acceleration =   -0.082371
 ...................... 
 Num threads =   2
-Parallel duration =   1.46946
-Acceleration =   1.36082
+Parallel duration =   1.45269
+Acceleration =   1.38086
 ...................... 
 Num threads =   3
-Parallel duration =   1.04931
-Acceleration =   1.78097
+Parallel duration =   1.01497
+Acceleration =   1.81858
 ...................... 
 Num threads =   4
-Parallel duration =   1.03336
-Acceleration =   1.79693
+Parallel duration =   0.860533
+Acceleration =   1.97302
 ...................... 
 ........../Finish iteration!/............ 
 K =  8000
 N =  2000
-Linear Duration =   3.25873
+Linear Duration =   3.22785
 Num threads =   1
-Parallel duration =   3.4289
-Acceleration =   -0.170173
+Parallel duration =   3.37799
+Acceleration =   -0.150134
 ...................... 
 Num threads =   2
-Parallel duration =   1.69049
-Acceleration =   1.56824
+Parallel duration =   1.65595
+Acceleration =   1.57191
 ...................... 
 Num threads =   3
-Parallel duration =   1.16003
-Acceleration =   2.0987
+Parallel duration =   1.16232
+Acceleration =   2.06553
 ...................... 
 Num threads =   4
-Parallel duration =   0.90418
-Acceleration =   2.35455
+Parallel duration =   1.00407
+Acceleration =   2.22378
 ...................... 
 ........../Finish iteration!/............ 
 K =  9000
 N =  2000
-Linear Duration =   3.68507
+Linear Duration =   3.63026
 Num threads =   1
-Parallel duration =   3.83023
-Acceleration =   -0.145153
+Parallel duration =   3.80883
+Acceleration =   -0.178562
 ...................... 
 Num threads =   2
-Parallel duration =   1.87572
-Acceleration =   1.80936
+Parallel duration =   1.8523
+Acceleration =   1.77797
 ...................... 
 Num threads =   3
-Parallel duration =   1.30058
-Acceleration =   2.38449
+Parallel duration =   1.30751
+Acceleration =   2.32275
 ...................... 
 Num threads =   4
-Parallel duration =   1.05709
-Acceleration =   2.62799
+Parallel duration =   1.05644
+Acceleration =   2.57383
 ...................... 
 ........../Finish iteration!/............ 
 K =  10000
 N =  2000
-Linear Duration =   4.0693
+Linear Duration =   4.05286
 Num threads =   1
-Parallel duration =   4.32859
-Acceleration =   -0.259288
+Parallel duration =   4.16272
+Acceleration =   -0.109855
 ...................... 
 Num threads =   2
-Parallel duration =   2.10325
-Acceleration =   1.96606
+Parallel duration =   2.08434
+Acceleration =   1.96852
 ...................... 
 Num threads =   3
-Parallel duration =   1.4236
-Acceleration =   2.6457
+Parallel duration =   1.42393
+Acceleration =   2.62893
 ...................... 
 Num threads =   4
-Parallel duration =   1.23127
-Acceleration =   2.83803
+Parallel duration =   1.22498
+Acceleration =   2.82788
 ...................... 
 ........../Finish iteration!/............ 
 K =  1000
 N =  3000
-Linear Duration =   0.602351
+Linear Duration =   0.60946
 Num threads =   1
-Parallel duration =   0.725867
-Acceleration =   -0.123516
+Parallel duration =   0.741468
+Acceleration =   -0.132008
 ...................... 
 Num threads =   2
-Parallel duration =   0.336938
-Acceleration =   0.265412
+Parallel duration =   0.333034
+Acceleration =   0.276426
 ...................... 
 Num threads =   3
-Parallel duration =   0.284958
-Acceleration =   0.317393
+Parallel duration =   0.260351
+Acceleration =   0.349109
 ...................... 
 Num threads =   4
-Parallel duration =   0.313373
-Acceleration =   0.288978
+Parallel duration =   0.304953
+Acceleration =   0.304507
 ...................... 
 ........../Finish iteration!/............ 
 K =  2000
 N =  3000
-Linear Duration =   1.23827
+Linear Duration =   1.21172
 Num threads =   1
-Parallel duration =   1.35907
-Acceleration =   -0.120795
+Parallel duration =   1.29949
+Acceleration =   -0.0877626
 ...................... 
 Num threads =   2
-Parallel duration =   0.643465
-Acceleration =   0.594807
+Parallel duration =   0.640953
+Acceleration =   0.57077
 ...................... 
 Num threads =   3
-Parallel duration =   0.465893
-Acceleration =   0.77238
+Parallel duration =   0.473935
+Acceleration =   0.737788
 ...................... 
 Num threads =   4
-Parallel duration =   0.442133
-Acceleration =   0.796139
+Parallel duration =   0.442554
+Acceleration =   0.769169
 ...................... 
 ........../Finish iteration!/............ 
 K =  3000
 N =  3000
-Linear Duration =   1.82061
+Linear Duration =   1.83677
 Num threads =   1
-Parallel duration =   1.99558
-Acceleration =   -0.174973
+Parallel duration =   1.95151
+Acceleration =   -0.11474
 ...................... 
 Num threads =   2
-Parallel duration =   0.974934
-Acceleration =   0.845672
+Parallel duration =   0.952473
+Acceleration =   0.884292
 ...................... 
 Num threads =   3
-Parallel duration =   0.667882
-Acceleration =   1.15272
+Parallel duration =   0.727744
+Acceleration =   1.10902
 ...................... 
 Num threads =   4
-Parallel duration =   0.570209
-Acceleration =   1.2504
+Parallel duration =   0.615188
+Acceleration =   1.22158
 ...................... 
 ........../Finish iteration!/............ 
 K =  4000
 N =  3000
-Linear Duration =   2.44852
+Linear Duration =   2.45938
 Num threads =   1
-Parallel duration =   2.54481
-Acceleration =   -0.0962895
+Parallel duration =   2.55467
+Acceleration =   -0.0952891
 ...................... 
 Num threads =   2
-Parallel duration =   1.26221
-Acceleration =   1.18631
+Parallel duration =   1.2642
+Acceleration =   1.19518
 ...................... 
 Num threads =   3
-Parallel duration =   0.897862
-Acceleration =   1.55066
+Parallel duration =   0.912763
+Acceleration =   1.54662
 ...................... 
 Num threads =   4
-Parallel duration =   0.744719
-Acceleration =   1.7038
+Parallel duration =   0.81803
+Acceleration =   1.64135
 ...................... 
 ........../Finish iteration!/............ 
 K =  5000
 N =  3000
-Linear Duration =   3.06551
+Linear Duration =   3.08639
 Num threads =   1
-Parallel duration =   3.20019
-Acceleration =   -0.134678
+Parallel duration =   3.20432
+Acceleration =   -0.11793
 ...................... 
 Num threads =   2
-Parallel duration =   1.57207
-Acceleration =   1.49344
+Parallel duration =   1.57213
+Acceleration =   1.51425
 ...................... 
 Num threads =   3
-Parallel duration =   1.07272
-Acceleration =   1.99279
+Parallel duration =   1.21309
+Acceleration =   1.8733
 ...................... 
 Num threads =   4
-Parallel duration =   0.946192
-Acceleration =   2.11932
+Parallel duration =   0.945971
+Acceleration =   2.14041
 ...................... 
 ........../Finish iteration!/............ 
 K =  6000
 N =  3000
-Linear Duration =   3.71526
+Linear Duration =   3.65454
 Num threads =   1
-Parallel duration =   3.8525
-Acceleration =   -0.137249
+Parallel duration =   3.78213
+Acceleration =   -0.127591
 ...................... 
 Num threads =   2
-Parallel duration =   1.8755
-Acceleration =   1.83976
+Parallel duration =   1.86869
+Acceleration =   1.78585
 ...................... 
 Num threads =   3
-Parallel duration =   1.31113
-Acceleration =   2.40413
+Parallel duration =   1.30185
+Acceleration =   2.35269
 ...................... 
 Num threads =   4
-Parallel duration =   1.11157
-Acceleration =   2.60369
+Parallel duration =   1.01797
+Acceleration =   2.63658
 ...................... 
 ........../Finish iteration!/............ 
 K =  7000
 N =  3000
-Linear Duration =   4.32886
+Linear Duration =   4.28683
 Num threads =   1
-Parallel duration =   4.51842
-Acceleration =   -0.189564
+Parallel duration =   4.37955
+Acceleration =   -0.0927166
 ...................... 
 Num threads =   2
-Parallel duration =   2.20337
-Acceleration =   2.12549
+Parallel duration =   2.17842
+Acceleration =   2.10841
 ...................... 
 Num threads =   3
-Parallel duration =   1.51114
-Acceleration =   2.81772
+Parallel duration =   1.47338
+Acceleration =   2.81345
 ...................... 
 Num threads =   4
-Parallel duration =   1.2696
-Acceleration =   3.05926
+Parallel duration =   1.27539
+Acceleration =   3.01144
 ...................... 
 ........../Finish iteration!/............ 
 K =  8000
 N =  3000
-Linear Duration =   4.93445
+Linear Duration =   4.84369
 Num threads =   1
-Parallel duration =   5.10984
-Acceleration =   -0.175395
+Parallel duration =   4.96984
+Acceleration =   -0.126151
 ...................... 
 Num threads =   2
-Parallel duration =   2.50512
-Acceleration =   2.42933
+Parallel duration =   2.50685
+Acceleration =   2.33684
 ...................... 
 Num threads =   3
-Parallel duration =   1.72001
-Acceleration =   3.21444
+Parallel duration =   1.7779
+Acceleration =   3.06579
 ...................... 
 Num threads =   4
-Parallel duration =   1.6763
-Acceleration =   3.25815
+Parallel duration =   1.37714
+Acceleration =   3.46655
 ...................... 
 ........../Finish iteration!/............ 
 K =  9000
 N =  3000
-Linear Duration =   5.96259
+Linear Duration =   5.47488
 Num threads =   1
-Parallel duration =   5.69319
-Acceleration =   0.269398
+Parallel duration =   5.63271
+Acceleration =   -0.157823
 ...................... 
 Num threads =   2
-Parallel duration =   2.81522
-Acceleration =   3.14736
+Parallel duration =   2.77566
+Acceleration =   2.69923
 ...................... 
 Num threads =   3
-Parallel duration =   1.88929
-Acceleration =   4.0733
+Parallel duration =   1.90999
+Acceleration =   3.56489
 ...................... 
 Num threads =   4
-Parallel duration =   1.5962
-Acceleration =   4.36639
+Parallel duration =   1.61174
+Acceleration =   3.86315
 ...................... 
 ........../Finish iteration!/............ 
 K =  10000
 N =  3000
-Linear Duration =   6.05639
+Linear Duration =   6.05581
 Num threads =   1
-Parallel duration =   6.29315
-Acceleration =   -0.236764
+Parallel duration =   6.22671
+Acceleration =   -0.170897
 ...................... 
 Num threads =   2
-Parallel duration =   3.09377
-Acceleration =   2.96262
+Parallel duration =   3.0857
+Acceleration =   2.97011
 ...................... 
 Num threads =   3
-Parallel duration =   2.11267
-Acceleration =   3.94372
+Parallel duration =   2.13209
+Acceleration =   3.92373
 ...................... 
 Num threads =   4
-Parallel duration =   1.70014
-Acceleration =   4.35625
+Parallel duration =   1.82068
+Acceleration =   4.23513
 ...................... 
 ........../Finish iteration!/............ 
 K =  1000
 N =  4000
-Linear Duration =   0.839491
+Linear Duration =   0.814383
 Num threads =   1
-Parallel duration =   0.936667
-Acceleration =   -0.0971767
+Parallel duration =   0.948587
+Acceleration =   -0.134204
 ...................... 
 Num threads =   2
-Parallel duration =   0.440532
-Acceleration =   0.398959
+Parallel duration =   0.43454
+Acceleration =   0.379842
 ...................... 
 Num threads =   3
-Parallel duration =   0.35849
-Acceleration =   0.481001
+Parallel duration =   0.329932
+Acceleration =   0.48445
 ...................... 
 Num threads =   4
-Parallel duration =   0.33369
-Acceleration =   0.505801
+Parallel duration =   0.28512
+Acceleration =   0.529263
 ...................... 
 ........../Finish iteration!/............ 
 K =  2000
 N =  4000
-Linear Duration =   1.60978
+Linear Duration =   1.60881
 Num threads =   1
-Parallel duration =   1.73768
-Acceleration =   -0.127897
+Parallel duration =   1.76458
+Acceleration =   -0.155771
 ...................... 
 Num threads =   2
-Parallel duration =   0.849031
-Acceleration =   0.760748
+Parallel duration =   0.843628
+Acceleration =   0.765183
 ...................... 
 Num threads =   3
-Parallel duration =   0.60262
-Acceleration =   1.00716
+Parallel duration =   0.636838
+Acceleration =   0.971972
 ...................... 
 Num threads =   4
-Parallel duration =   0.50781
-Acceleration =   1.10197
+Parallel duration =   0.470816
+Acceleration =   1.138
 ...................... 
 ........../Finish iteration!/............ 
 K =  3000
 N =  4000
-Linear Duration =   2.4242
+Linear Duration =   2.43032
 Num threads =   1
-Parallel duration =   2.60986
-Acceleration =   -0.185665
+Parallel duration =   2.52495
+Acceleration =   -0.0946311
 ...................... 
 Num threads =   2
-Parallel duration =   1.26593
-Acceleration =   1.15827
+Parallel duration =   1.25279
+Acceleration =   1.17753
 ...................... 
 Num threads =   3
-Parallel duration =   0.889016
-Acceleration =   1.53518
+Parallel duration =   0.879087
+Acceleration =   1.55123
 ...................... 
 Num threads =   4
-Parallel duration =   0.860546
-Acceleration =   1.56365
+Parallel duration =   0.781475
+Acceleration =   1.64885
 ...................... 
 ........../Finish iteration!/............ 
 K =  4000
 N =  4000
-Linear Duration =   3.23372
+Linear Duration =   3.23835
 Num threads =   1
-Parallel duration =   3.36842
-Acceleration =   -0.134699
+Parallel duration =   3.33427
+Acceleration =   -0.0959175
 ...................... 
 Num threads =   2
-Parallel duration =   1.67099
-Acceleration =   1.56273
+Parallel duration =   1.66036
+Acceleration =   1.57799
 ...................... 
 Num threads =   3
-Parallel duration =   1.19226
-Acceleration =   2.04147
+Parallel duration =   1.14647
+Acceleration =   2.09188
 ...................... 
 Num threads =   4
-Parallel duration =   1.01166
-Acceleration =   2.22207
+Parallel duration =   0.982419
+Acceleration =   2.25593
 ...................... 
 ........../Finish iteration!/............ 
 K =  5000
 N =  4000
-Linear Duration =   4.07985
+Linear Duration =   4.03393
 Num threads =   1
-Parallel duration =   4.24508
-Acceleration =   -0.16524
+Parallel duration =   4.15694
+Acceleration =   -0.12301
 ...................... 
 Num threads =   2
-Parallel duration =   2.0674
-Acceleration =   2.01244
+Parallel duration =   2.08261
+Acceleration =   1.95132
 ...................... 
 Num threads =   3
-Parallel duration =   1.42944
-Acceleration =   2.65041
+Parallel duration =   1.44872
+Acceleration =   2.58521
 ...................... 
 Num threads =   4
-Parallel duration =   1.26157
-Acceleration =   2.81828
+Parallel duration =   1.21394
+Acceleration =   2.81999
 ...................... 
 ........../Finish iteration!/............ 
 K =  6000
 N =  4000
-Linear Duration =   4.84829
+Linear Duration =   4.87998
 Num threads =   1
-Parallel duration =   5.00993
-Acceleration =   -0.161641
+Parallel duration =   4.97162
+Acceleration =   -0.0916397
 ...................... 
 Num threads =   2
-Parallel duration =   2.51491
-Acceleration =   2.33338
+Parallel duration =   2.51889
+Acceleration =   2.36109
 ...................... 
 Num threads =   3
-Parallel duration =   1.71548
-Acceleration =   3.13281
+Parallel duration =   1.76857
+Acceleration =   3.11141
 ...................... 
 Num threads =   4
-Parallel duration =   1.46316
-Acceleration =   3.38513
+Parallel duration =   1.41066
+Acceleration =   3.46932
 ...................... 
 ........../Finish iteration!/............ 
 K =  7000
 N =  4000
-Linear Duration =   5.71587
+Linear Duration =   5.69365
 Num threads =   1
-Parallel duration =   5.90417
-Acceleration =   -0.188299
+Parallel duration =   5.85815
+Acceleration =   -0.1645
 ...................... 
 Num threads =   2
-Parallel duration =   2.92192
-Acceleration =   2.79395
+Parallel duration =   2.90254
+Acceleration =   2.79111
 ...................... 
 Num threads =   3
-Parallel duration =   2.02956
-Acceleration =   3.6863
+Parallel duration =   2.06124
+Acceleration =   3.63241
 ...................... 
 Num threads =   4
-Parallel duration =   1.67919
-Acceleration =   4.03668
+Parallel duration =   1.60284
+Acceleration =   4.0908
 ...................... 
 ........../Finish iteration!/............ 
 K =  8000
 N =  4000
-Linear Duration =   6.55703
+Linear Duration =   6.46644
 Num threads =   1
-Parallel duration =   6.72614
-Acceleration =   -0.169112
+Parallel duration =   6.66162
+Acceleration =   -0.195185
 ...................... 
 Num threads =   2
-Parallel duration =   3.32324
-Acceleration =   3.23379
+Parallel duration =   3.31415
+Acceleration =   3.15229
 ...................... 
 Num threads =   3
-Parallel duration =   2.29023
-Acceleration =   4.2668
+Parallel duration =   2.26219
+Acceleration =   4.20425
 ...................... 
 Num threads =   4
-Parallel duration =   1.80615
-Acceleration =   4.75088
+Parallel duration =   1.83839
+Acceleration =   4.62805
 ...................... 
 ........../Finish iteration!/............ 
 K =  9000
 N =  4000
-Linear Duration =   7.50091
+Linear Duration =   7.28093
 Num threads =   1
-Parallel duration =   7.7478
-Acceleration =   -0.24689
+Parallel duration =   7.4137
+Acceleration =   -0.132775
 ...................... 
 Num threads =   2
-Parallel duration =   3.74798
-Acceleration =   3.75294
+Parallel duration =   3.70466
+Acceleration =   3.57627
 ...................... 
 Num threads =   3
-Parallel duration =   2.57548
-Acceleration =   4.92544
+Parallel duration =   2.52245
+Acceleration =   4.75848
 ...................... 
 Num threads =   4
-Parallel duration =   2.0315
-Acceleration =   5.46942
+Parallel duration =   2.06632
+Acceleration =   5.21461
 ...................... 
 ........../Finish iteration!/............ 
 K =  10000
 N =  4000
-Linear Duration =   8.1769
+Linear Duration =   8.22016
 Num threads =   1
-Parallel duration =   8.39594
-Acceleration =   -0.219041
+Parallel duration =   8.38873
+Acceleration =   -0.168573
 ...................... 
 Num threads =   2
-Parallel duration =   4.18322
-Acceleration =   3.99368
+Parallel duration =   4.17957
+Acceleration =   4.04059
 ...................... 
 Num threads =   3
-Parallel duration =   2.8346
-Acceleration =   5.3423
+Parallel duration =   2.83061
+Acceleration =   5.38955
 ...................... 
 Num threads =   4
-Parallel duration =   2.20362
-Acceleration =   5.97328
+Parallel duration =   2.39751
+Acceleration =   5.82265
 ...................... 
 ........../Finish iteration!/............ 
 K =  1000
 N =  5000
-Linear Duration =   1.01223
+Linear Duration =   1.03165
 Num threads =   1
-Parallel duration =   1.15864
-Acceleration =   -0.146412
+Parallel duration =   1.13671
+Acceleration =   -0.105066
 ...................... 
 Num threads =   2
-Parallel duration =   0.539557
-Acceleration =   0.472668
+Parallel duration =   0.563327
+Acceleration =   0.46832
 ...................... 
 Num threads =   3
-Parallel duration =   0.405398
-Acceleration =   0.606827
+Parallel duration =   0.457002
+Acceleration =   0.574645
 ...................... 
 Num threads =   4
-Parallel duration =   0.428852
-Acceleration =   0.583374
+Parallel duration =   0.358644
+Acceleration =   0.673002
 ...................... 
 ........../Finish iteration!/............ 
 K =  2000
 N =  5000
-Linear Duration =   2.04528
+Linear Duration =   2.0287
 Num threads =   1
-Parallel duration =   2.18734
-Acceleration =   -0.142055
+Parallel duration =   2.15875
+Acceleration =   -0.130043
 ...................... 
 Num threads =   2
-Parallel duration =   1.05561
-Acceleration =   0.989676
+Parallel duration =   1.08044
+Acceleration =   0.948269
 ...................... 
 Num threads =   3
-Parallel duration =   0.744189
-Acceleration =   1.30109
+Parallel duration =   0.735324
+Acceleration =   1.29338
 ...................... 
 Num threads =   4
-Parallel duration =   0.708484
-Acceleration =   1.3368
+Parallel duration =   0.83123
+Acceleration =   1.19747
 ...................... 
 ........../Finish iteration!/............ 
 K =  3000
 N =  5000
-Linear Duration =   3.06648
+Linear Duration =   3.02148
 Num threads =   1
-Parallel duration =   3.19987
-Acceleration =   -0.133391
+Parallel duration =   3.1995
+Acceleration =   -0.178019
 ...................... 
 Num threads =   2
-Parallel duration =   1.57081
-Acceleration =   1.49567
+Parallel duration =   1.56026
+Acceleration =   1.46122
 ...................... 
 Num threads =   3
-Parallel duration =   1.10702
-Acceleration =   1.95946
+Parallel duration =   1.15814
+Acceleration =   1.86334
 ...................... 
 Num threads =   4
-Parallel duration =   0.98576
-Acceleration =   2.08072
+Parallel duration =   0.924784
+Acceleration =   2.0967
 ...................... 
 ........../Finish iteration!/............ 
 K =  4000
 N =  5000
-Linear Duration =   4.08744
+Linear Duration =   4.06424
 Num threads =   1
-Parallel duration =   4.26836
-Acceleration =   -0.180912
+Parallel duration =   4.20735
+Acceleration =   -0.143113
 ...................... 
 Num threads =   2
-Parallel duration =   2.09928
-Acceleration =   1.98816
+Parallel duration =   2.07472
+Acceleration =   1.98952
 ...................... 
 Num threads =   3
-Parallel duration =   1.45193
-Acceleration =   2.63551
+Parallel duration =   1.4658
+Acceleration =   2.59844
 ...................... 
 Num threads =   4
-Parallel duration =   1.25316
-Acceleration =   2.83428
+Parallel duration =   1.23636
+Acceleration =   2.82788
 ...................... 
 ........../Finish iteration!/............ 
 K =  5000
 N =  5000
-Linear Duration =   5.07062
+Linear Duration =   5.04229
 Num threads =   1
-Parallel duration =   5.28759
-Acceleration =   -0.216974
+Parallel duration =   5.20504
+Acceleration =   -0.162758
 ...................... 
 Num threads =   2
-Parallel duration =   2.62686
-Acceleration =   2.44375
+Parallel duration =   2.60239
+Acceleration =   2.4399
 ...................... 
 Num threads =   3
-Parallel duration =   1.75789
-Acceleration =   3.31273
+Parallel duration =   1.8285
+Acceleration =   3.21379
 ...................... 
 Num threads =   4
-Parallel duration =   1.42467
-Acceleration =   3.64595
+Parallel duration =   1.51543
+Acceleration =   3.52686
 ...................... 
 ........../Finish iteration!/............ 
 K =  6000
 N =  5000
-Linear Duration =   6.13467
+Linear Duration =   6.09091
 Num threads =   1
-Parallel duration =   6.34045
-Acceleration =   -0.205781
+Parallel duration =   6.3054
+Acceleration =   -0.214491
 ...................... 
 Num threads =   2
-Parallel duration =   3.10728
-Acceleration =   3.02739
+Parallel duration =   3.0914
+Acceleration =   2.99951
 ...................... 
 Num threads =   3
-Parallel duration =   2.20938
-Acceleration =   3.92529
+Parallel duration =   2.14426
+Acceleration =   3.94665
 ...................... 
 Num threads =   4
-Parallel duration =   1.73801
-Acceleration =   4.39666
+Parallel duration =   1.91188
+Acceleration =   4.17903
 ...................... 
 ........../Finish iteration!/............ 
 K =  7000
 N =  5000
-Linear Duration =   7.08098
+Linear Duration =   7.07437
 Num threads =   1
-Parallel duration =   7.28458
-Acceleration =   -0.203606
+Parallel duration =   7.23488
+Acceleration =   -0.160508
 ...................... 
 Num threads =   2
-Parallel duration =   3.60077
-Acceleration =   3.4802
+Parallel duration =   3.63759
+Acceleration =   3.43678
 ...................... 
 Num threads =   3
-Parallel duration =   2.49181
-Acceleration =   4.58916
+Parallel duration =   2.48383
+Acceleration =   4.59054
 ...................... 
 Num threads =   4
-Parallel duration =   1.91782
-Acceleration =   5.16315
+Parallel duration =   2.00507
+Acceleration =   5.0693
 ...................... 
 ........../Finish iteration!/............ 
 K =  8000
 N =  5000
-Linear Duration =   8.19154
+Linear Duration =   8.17418
 Num threads =   1
-Parallel duration =   8.4124
-Acceleration =   -0.220863
+Parallel duration =   8.3072
+Acceleration =   -0.133017
 ...................... 
 Num threads =   2
-Parallel duration =   4.13884
-Acceleration =   4.0527
+Parallel duration =   4.14875
+Acceleration =   4.02543
 ...................... 
 Num threads =   3
-Parallel duration =   2.78774
-Acceleration =   5.4038
+Parallel duration =   2.78085
+Acceleration =   5.39333
 ...................... 
 Num threads =   4
-Parallel duration =   2.24249
-Acceleration =   5.94905
+Parallel duration =   2.33133
+Acceleration =   5.84285
 ...................... 
 ........../Finish iteration!/............ 
 K =  9000
 N =  5000
-Linear Duration =   9.07828
+Linear Duration =   9.06242
 Num threads =   1
-Parallel duration =   9.38896
-Acceleration =   -0.310682
+Parallel duration =   9.27288
+Acceleration =   -0.210454
 ...................... 
 Num threads =   2
-Parallel duration =   4.65658
-Acceleration =   4.4217
+Parallel duration =   4.6205
+Acceleration =   4.44193
 ...................... 
 Num threads =   3
-Parallel duration =   3.1516
-Acceleration =   5.92668
+Parallel duration =   3.2412
+Acceleration =   5.82122
 ...................... 
 Num threads =   4
-Parallel duration =   2.47886
-Acceleration =   6.59942
+Parallel duration =   2.80945
+Acceleration =   6.25297
 ...................... 
 ........../Finish iteration!/............ 
 K =  10000
 N =  5000
-Linear Duration =   10.0905
+Linear Duration =   10.2317
 Num threads =   1
-Parallel duration =   10.3673
-Acceleration =   -0.276846
+Parallel duration =   10.3887
+Acceleration =   -0.15702
 ...................... 
 Num threads =   2
-Parallel duration =   5.21727
-Acceleration =   4.87323
+Parallel duration =   5.17443
+Acceleration =   5.05723
 ...................... 
 Num threads =   3
-Parallel duration =   3.52106
-Acceleration =   6.56945
+Parallel duration =   3.54668
+Acceleration =   6.68498
 ...................... 
 Num threads =   4
-Parallel duration =   2.77886
-Acceleration =   7.31164
+Parallel duration =   2.79423
+Acceleration =   7.43743
 ...................... 
 ........../Finish iteration!/............ 
 K =  1000
 N =  6000
-Linear Duration =   1.21194
+Linear Duration =   1.2066
 Num threads =   1
-Parallel duration =   1.3359
-Acceleration =   -0.123965
+Parallel duration =   1.35645
+Acceleration =   -0.149852
 ...................... 
 Num threads =   2
-Parallel duration =   0.647261
-Acceleration =   0.564677
+Parallel duration =   0.645715
+Acceleration =   0.560887
 ...................... 
 Num threads =   3
-Parallel duration =   0.473029
-Acceleration =   0.738909
+Parallel duration =   0.480166
+Acceleration =   0.726436
 ...................... 
 Num threads =   4
-Parallel duration =   0.405328
-Acceleration =   0.806609
+Parallel duration =   0.448884
+Acceleration =   0.757718
 ...................... 
 ........../Finish iteration!/............ 
 K =  2000
 N =  6000
-Linear Duration =   2.43315
+Linear Duration =   2.4146
 Num threads =   1
-Parallel duration =   2.5529
-Acceleration =   -0.119749
+Parallel duration =   2.56913
+Acceleration =   -0.154527
 ...................... 
 Num threads =   2
-Parallel duration =   1.25489
-Acceleration =   1.17825
+Parallel duration =   1.27926
+Acceleration =   1.13534
 ...................... 
 Num threads =   3
-Parallel duration =   0.88726
-Acceleration =   1.54589
+Parallel duration =   0.891985
+Acceleration =   1.52261
 ...................... 
 Num threads =   4
-Parallel duration =   0.873187
-Acceleration =   1.55996
+Parallel duration =   0.863366
+Acceleration =   1.55123
 ...................... 
 ........../Finish iteration!/............ 
 K =  3000
 N =  6000
-Linear Duration =   3.64521
+Linear Duration =   3.65124
 Num threads =   1
-Parallel duration =   3.79168
-Acceleration =   -0.146467
+Parallel duration =   3.77845
+Acceleration =   -0.127216
 ...................... 
 Num threads =   2
-Parallel duration =   1.87318
-Acceleration =   1.77203
+Parallel duration =   1.86473
+Acceleration =   1.78651
 ...................... 
 Num threads =   3
-Parallel duration =   1.2924
-Acceleration =   2.35281
+Parallel duration =   1.30688
+Acceleration =   2.34436
 ...................... 
 Num threads =   4
-Parallel duration =   1.11195
-Acceleration =   2.53326
+Parallel duration =   1.14575
+Acceleration =   2.50549
 ...................... 
 ........../Finish iteration!/............ 
 K =  4000
 N =  6000
-Linear Duration =   4.88452
+Linear Duration =   4.85678
 Num threads =   1
-Parallel duration =   5.02031
-Acceleration =   -0.135794
+Parallel duration =   5.01228
+Acceleration =   -0.155506
 ...................... 
 Num threads =   2
-Parallel duration =   2.49521
-Acceleration =   2.38931
+Parallel duration =   2.48229
+Acceleration =   2.37449
 ...................... 
 Num threads =   3
-Parallel duration =   1.69731
-Acceleration =   3.18721
+Parallel duration =   1.68741
+Acceleration =   3.16937
 ...................... 
 Num threads =   4
-Parallel duration =   1.39069
-Acceleration =   3.49383
+Parallel duration =   1.40154
+Acceleration =   3.45524
 ...................... 
 ........../Finish iteration!/............ 
 K =  5000
 N =  6000
-Linear Duration =   6.05163
+Linear Duration =   6.07321
 Num threads =   1
-Parallel duration =   6.27169
-Acceleration =   -0.220066
+Parallel duration =   6.2172
+Acceleration =   -0.143986
 ...................... 
 Num threads =   2
-Parallel duration =   3.11266
-Acceleration =   2.93897
+Parallel duration =   3.10301
+Acceleration =   2.9702
 ...................... 
 Num threads =   3
-Parallel duration =   2.13176
-Acceleration =   3.91987
+Parallel duration =   2.11073
+Acceleration =   3.96248
 ...................... 
 Num threads =   4
-Parallel duration =   1.67355
-Acceleration =   4.37808
+Parallel duration =   1.74798
+Acceleration =   4.32523
 ...................... 
 ........../Finish iteration!/............ 
 K =  6000
 N =  6000
-Linear Duration =   7.33157
+Linear Duration =   7.32729
 Num threads =   1
-Parallel duration =   7.46949
-Acceleration =   -0.13792
+Parallel duration =   7.44203
+Acceleration =   -0.114739
 ...................... 
 Num threads =   2
-Parallel duration =   3.73033
-Acceleration =   3.60124
+Parallel duration =   3.75029
+Acceleration =   3.577
 ...................... 
 Num threads =   3
-Parallel duration =   2.53794
-Acceleration =   4.79363
+Parallel duration =   2.52326
+Acceleration =   4.80403
 ...................... 
 Num threads =   4
-Parallel duration =   2.1253
-Acceleration =   5.20627
+Parallel duration =   2.04744
+Acceleration =   5.27985
 ...................... 
 ........../Finish iteration!/............ 
 K =  7000
 N =  6000
-Linear Duration =   8.66744
+Linear Duration =   8.48946
 Num threads =   1
-Parallel duration =   8.83908
-Acceleration =   -0.171635
+Parallel duration =   8.64426
+Acceleration =   -0.154795
 ...................... 
 Num threads =   2
-Parallel duration =   4.34775
-Acceleration =   4.31969
+Parallel duration =   4.33445
+Acceleration =   4.15501
 ...................... 
 Num threads =   3
-Parallel duration =   2.94432
-Acceleration =   5.72313
+Parallel duration =   2.93424
+Acceleration =   5.55523
 ...................... 
 Num threads =   4
-Parallel duration =   2.3486
-Acceleration =   6.31884
+Parallel duration =   2.38767
+Acceleration =   6.10179
 ...................... 
 ........../Finish iteration!/............ 
 K =  8000
 N =  6000
-Linear Duration =   9.71236
+Linear Duration =   9.74303
 Num threads =   1
-Parallel duration =   9.96262
-Acceleration =   -0.250254
+Parallel duration =   9.96273
+Acceleration =   -0.219705
 ...................... 
 Num threads =   2
-Parallel duration =   5.01037
-Acceleration =   4.70199
+Parallel duration =   4.94953
+Acceleration =   4.7935
 ...................... 
 Num threads =   3
-Parallel duration =   3.3818
-Acceleration =   6.33056
+Parallel duration =   3.35693
+Acceleration =   6.3861
 ...................... 
 Num threads =   4
-Parallel duration =   2.69668
-Acceleration =   7.01568
+Parallel duration =   2.62107
+Acceleration =   7.12196
 ...................... 
 ........../Finish iteration!/............ 
 K =  9000
 N =  6000
-Linear Duration =   10.9085
+Linear Duration =   11.8548
 Num threads =   1
-Parallel duration =   11.2302
-Acceleration =   -0.321685
+Parallel duration =   11.3467
+Acceleration =   0.508063
 ...................... 
 Num threads =   2
-Parallel duration =   5.55713
-Acceleration =   5.35135
+Parallel duration =   5.55689
+Acceleration =   6.29788
 ...................... 
 Num threads =   3
-Parallel duration =   3.81209
-Acceleration =   7.09638
+Parallel duration =   3.83592
+Acceleration =   8.01885
 ...................... 
 Num threads =   4
-Parallel duration =   3.02358
-Acceleration =   7.8849
+Parallel duration =   2.91296
+Acceleration =   8.94181
 ...................... 
 ........../Finish iteration!/............ 
 K =  10000
 N =  6000
-Linear Duration =   12.1227
+Linear Duration =   12.3154
 Num threads =   1
-Parallel duration =   12.4102
-Acceleration =   -0.287448
+Parallel duration =   12.4591
+Acceleration =   -0.143638
 ...................... 
 Num threads =   2
-Parallel duration =   6.19969
-Acceleration =   5.92303
+Parallel duration =   6.20183
+Acceleration =   6.11361
 ...................... 
 Num threads =   3
-Parallel duration =   4.24237
-Acceleration =   7.88034
+Parallel duration =   4.25917
+Acceleration =   8.05627
 ...................... 
 Num threads =   4
-Parallel duration =   3.21719
-Acceleration =   8.90552
+Parallel duration =   3.34151
+Acceleration =   8.97393
 ...................... 
 ........../Finish iteration!/............ 
 K =  1000
 N =  7000
-Linear Duration =   1.41929
+Linear Duration =   1.40558
 Num threads =   1
-Parallel duration =   1.56726
-Acceleration =   -0.147973
+Parallel duration =   1.55962
+Acceleration =   -0.154038
 ...................... 
 Num threads =   2
-Parallel duration =   0.752284
-Acceleration =   0.667004
+Parallel duration =   0.74931
+Acceleration =   0.656274
 ...................... 
 Num threads =   3
-Parallel duration =   0.540815
-Acceleration =   0.878472
+Parallel duration =   0.512797
+Acceleration =   0.892787
 ...................... 
 Num threads =   4
-Parallel duration =   0.621749
-Acceleration =   0.797539
+Parallel duration =   0.516673
+Acceleration =   0.88891
 ...................... 
 ........../Finish iteration!/............ 
 K =  2000
 N =  7000
-Linear Duration =   2.84007
+Linear Duration =   2.87337
 Num threads =   1
-Parallel duration =   2.97703
-Acceleration =   -0.13696
+Parallel duration =   3.04425
+Acceleration =   -0.170879
 ...................... 
 Num threads =   2
-Parallel duration =   1.46256
-Acceleration =   1.37751
+Parallel duration =   1.47366
+Acceleration =   1.39971
 ...................... 
 Num threads =   3
-Parallel duration =   1.02254
-Acceleration =   1.81753
+Parallel duration =   1.02605
+Acceleration =   1.84732
 ...................... 
 Num threads =   4
-Parallel duration =   0.851318
-Acceleration =   1.98875
+Parallel duration =   0.909944
+Acceleration =   1.96343
 ...................... 
 ........../Finish iteration!/............ 
 K =  3000
 N =  7000
-Linear Duration =   4.28036
+Linear Duration =   4.2501
 Num threads =   1
-Parallel duration =   4.43879
-Acceleration =   -0.15843
+Parallel duration =   4.35034
+Acceleration =   -0.100242
 ...................... 
 Num threads =   2
-Parallel duration =   2.17815
-Acceleration =   2.10221
+Parallel duration =   2.1736
+Acceleration =   2.0765
 ...................... 
 Num threads =   3
-Parallel duration =   1.49539
-Acceleration =   2.78498
+Parallel duration =   1.53359
+Acceleration =   2.71651
 ...................... 
 Num threads =   4
-Parallel duration =   1.23796
-Acceleration =   3.04241
+Parallel duration =   1.25792
+Acceleration =   2.99218
 ...................... 
 ........../Finish iteration!/............ 
 K =  4000
 N =  7000
-Linear Duration =   5.7589
+Linear Duration =   5.65881
 Num threads =   1
-Parallel duration =   5.92628
-Acceleration =   -0.167378
+Parallel duration =   5.84537
+Acceleration =   -0.186559
 ...................... 
 Num threads =   2
-Parallel duration =   2.92224
-Acceleration =   2.83667
+Parallel duration =   2.89831
+Acceleration =   2.7605
 ...................... 
 Num threads =   3
-Parallel duration =   2.02185
-Acceleration =   3.73705
+Parallel duration =   1.98739
+Acceleration =   3.67142
 ...................... 
 Num threads =   4
-Parallel duration =   1.61489
-Acceleration =   4.14401
+Parallel duration =   1.61337
+Acceleration =   4.04544
 ...................... 
 ........../Finish iteration!/............ 
 K =  5000
 N =  7000
-Linear Duration =   7.06596
+Linear Duration =   7.15193
 Num threads =   1
-Parallel duration =   7.29566
-Acceleration =   -0.229699
+Parallel duration =   7.26306
+Acceleration =   -0.111131
 ...................... 
 Num threads =   2
-Parallel duration =   3.61932
-Acceleration =   3.44664
+Parallel duration =   3.60474
+Acceleration =   3.54719
 ...................... 
 Num threads =   3
-Parallel duration =   2.47828
-Acceleration =   4.58768
+Parallel duration =   2.49415
+Acceleration =   4.65778
 ...................... 
 Num threads =   4
-Parallel duration =   2.00965
-Acceleration =   5.05631
+Parallel duration =   1.96514
+Acceleration =   5.18679
 ...................... 
 ........../Finish iteration!/............ 
 K =  6000
 N =  7000
-Linear Duration =   8.56124
+Linear Duration =   8.50953
 Num threads =   1
-Parallel duration =   8.78864
-Acceleration =   -0.227406
+Parallel duration =   8.74422
+Acceleration =   -0.234685
 ...................... 
 Num threads =   2
-Parallel duration =   4.40095
-Acceleration =   4.16029
+Parallel duration =   4.33708
+Acceleration =   4.17245
 ...................... 
 Num threads =   3
-Parallel duration =   2.91838
-Acceleration =   5.64286
+Parallel duration =   2.94521
+Acceleration =   5.56433
 ...................... 
 Num threads =   4
-Parallel duration =   2.32723
-Acceleration =   6.234
+Parallel duration =   2.40148
+Acceleration =   6.10806
 ...................... 
 ........../Finish iteration!/............ 
 K =  7000
 N =  7000
-Linear Duration =   10.0296
+Linear Duration =   9.99947
 Num threads =   1
-Parallel duration =   10.21
-Acceleration =   -0.180336
+Parallel duration =   10.1544
+Acceleration =   -0.154913
 ...................... 
 Num threads =   2
-Parallel duration =   5.0556
-Acceleration =   4.97403
+Parallel duration =   5.03793
+Acceleration =   4.96154
 ...................... 
 Num threads =   3
-Parallel duration =   3.44076
-Acceleration =   6.58888
+Parallel duration =   3.38914
+Acceleration =   6.61033
 ...................... 
 Num threads =   4
-Parallel duration =   2.74621
-Acceleration =   7.28343
+Parallel duration =   2.73691
+Acceleration =   7.26256
 ...................... 
 ........../Finish iteration!/............ 
 K =  8000
 N =  7000
-Linear Duration =   11.485
+Linear Duration =   11.3486
 Num threads =   1
-Parallel duration =   11.724
-Acceleration =   -0.239018
+Parallel duration =   11.7658
+Acceleration =   -0.417206
 ...................... 
 Num threads =   2
-Parallel duration =   5.83099
-Acceleration =   5.654
+Parallel duration =   5.83506
+Acceleration =   5.51354
 ...................... 
 Num threads =   3
-Parallel duration =   4.19295
-Acceleration =   7.29204
+Parallel duration =   4.01439
+Acceleration =   7.33421
 ...................... 
 Num threads =   4
-Parallel duration =   3.05379
-Acceleration =   8.4312
+Parallel duration =   3.19727
+Acceleration =   8.15133
 ...................... 
 ........../Finish iteration!/............ 
 K =  9000
 N =  7000
-Linear Duration =   12.9025
+Linear Duration =   12.7326
 Num threads =   1
-Parallel duration =   13.1907
-Acceleration =   -0.288266
+Parallel duration =   12.9302
+Acceleration =   -0.197636
 ...................... 
 Num threads =   2
-Parallel duration =   6.54334
-Acceleration =   6.35914
+Parallel duration =   6.47647
+Acceleration =   6.25614
 ...................... 
 Num threads =   3
-Parallel duration =   5.32379
-Acceleration =   7.57869
+Parallel duration =   4.38169
+Acceleration =   8.35092
 ...................... 
 Num threads =   4
-Parallel duration =   3.42096
-Acceleration =   9.48153
+Parallel duration =   3.50905
+Acceleration =   9.22356
 ...................... 
 ........../Finish iteration!/............ 
 K =  10000
 N =  7000
-Linear Duration =   14.2371
+Linear Duration =   14.4406
 Num threads =   1
-Parallel duration =   14.5717
-Acceleration =   -0.334606
+Parallel duration =   14.4477
+Acceleration =   -0.0070513
 ...................... 
 Num threads =   2
-Parallel duration =   7.18732
-Acceleration =   7.04977
+Parallel duration =   7.29981
+Acceleration =   7.14082
 ...................... 
 Num threads =   3
-Parallel duration =   4.83041
-Acceleration =   9.40667
+Parallel duration =   4.88821
+Acceleration =   9.55242
 ...................... 
 Num threads =   4
-Parallel duration =   3.82674
-Acceleration =   10.4103
+Parallel duration =   3.86988
+Acceleration =   10.5707
 ...................... 
 ........../Finish iteration!/............ 
 K =  1000
 N =  8000
-Linear Duration =   1.6333
+Linear Duration =   1.62858
 Num threads =   1
-Parallel duration =   1.76294
-Acceleration =   -0.129645
+Parallel duration =   1.73399
+Acceleration =   -0.105404
 ...................... 
 Num threads =   2
-Parallel duration =   0.857439
-Acceleration =   0.775859
+Parallel duration =   0.847196
+Acceleration =   0.781385
 ...................... 
 Num threads =   3
-Parallel duration =   0.609826
-Acceleration =   1.02347
+Parallel duration =   0.650349
+Acceleration =   0.978231
 ...................... 
 Num threads =   4
-Parallel duration =   0.574073
-Acceleration =   1.05923
+Parallel duration =   0.570315
+Acceleration =   1.05827
 ...................... 
 ........../Finish iteration!/............ 
 K =  2000
 N =  8000
-Linear Duration =   3.27981
+Linear Duration =   3.20942
 Num threads =   1
-Parallel duration =   3.40457
-Acceleration =   -0.12476
+Parallel duration =   3.33975
+Acceleration =   -0.130327
 ...................... 
 Num threads =   2
-Parallel duration =   1.66451
-Acceleration =   1.6153
+Parallel duration =   1.67896
+Acceleration =   1.53047
 ...................... 
 Num threads =   3
-Parallel duration =   1.16834
-Acceleration =   2.11147
+Parallel duration =   1.17229
+Acceleration =   2.03713
 ...................... 
 Num threads =   4
-Parallel duration =   1.0009
-Acceleration =   2.2789
+Parallel duration =   0.988818
+Acceleration =   2.2206
 ...................... 
 ........../Finish iteration!/............ 
 K =  3000
 N =  8000
-Linear Duration =   4.8972
+Linear Duration =   4.81192
 Num threads =   1
-Parallel duration =   5.0702
-Acceleration =   -0.172992
+Parallel duration =   4.94025
+Acceleration =   -0.128337
 ...................... 
 Num threads =   2
-Parallel duration =   2.49097
-Acceleration =   2.40623
+Parallel duration =   2.48226
+Acceleration =   2.32965
 ...................... 
 Num threads =   3
-Parallel duration =   1.73735
-Acceleration =   3.15985
+Parallel duration =   1.68516
+Acceleration =   3.12676
 ...................... 
 Num threads =   4
-Parallel duration =   1.39904
-Acceleration =   3.49816
+Parallel duration =   1.42282
+Acceleration =   3.3891
 ...................... 
 ........../Finish iteration!/............ 
 K =  4000
 N =  8000
-Linear Duration =   6.48528
+Linear Duration =   6.44361
 Num threads =   1
-Parallel duration =   6.6936
-Acceleration =   -0.208322
+Parallel duration =   6.59987
+Acceleration =   -0.156255
 ...................... 
 Num threads =   2
-Parallel duration =   3.29451
-Acceleration =   3.19076
+Parallel duration =   3.33005
+Acceleration =   3.11356
 ...................... 
 Num threads =   3
-Parallel duration =   2.27635
-Acceleration =   4.20893
+Parallel duration =   2.25862
+Acceleration =   4.18499
 ...................... 
 Num threads =   4
-Parallel duration =   1.90173
-Acceleration =   4.58354
+Parallel duration =   1.8614
+Acceleration =   4.58221
 ...................... 
 ........../Finish iteration!/............ 
 K =  5000
 N =  8000
-Linear Duration =   8.11279
+Linear Duration =   8.09588
 Num threads =   1
-Parallel duration =   8.40778
-Acceleration =   -0.294988
+Parallel duration =   8.30678
+Acceleration =   -0.210904
 ...................... 
 Num threads =   2
-Parallel duration =   4.12369
-Acceleration =   3.98909
+Parallel duration =   4.11985
+Acceleration =   3.97602
 ...................... 
 Num threads =   3
-Parallel duration =   2.7998
-Acceleration =   5.31299
+Parallel duration =   2.77206
+Acceleration =   5.32382
 ...................... 
 Num threads =   4
-Parallel duration =   2.1567
-Acceleration =   5.95609
+Parallel duration =   2.35296
+Acceleration =   5.74291
 ...................... 
 ........../Finish iteration!/............ 
 K =  6000
 N =  8000
-Linear Duration =   9.71689
+Linear Duration =   9.79085
 Num threads =   1
-Parallel duration =   9.99147
-Acceleration =   -0.274586
+Parallel duration =   10.0222
+Acceleration =   -0.231331
 ...................... 
 Num threads =   2
-Parallel duration =   5.00573
-Acceleration =   4.71116
+Parallel duration =   4.99979
+Acceleration =   4.79106
 ...................... 
 Num threads =   3
-Parallel duration =   3.33948
-Acceleration =   6.3774
+Parallel duration =   3.37088
+Acceleration =   6.41997
 ...................... 
 Num threads =   4
-Parallel duration =   2.85147
-Acceleration =   6.86541
+Parallel duration =   2.67257
+Acceleration =   7.11829
 ...................... 
 ........../Finish iteration!/............ 
 K =  7000
 N =  8000
-Linear Duration =   11.3387
+Linear Duration =   11.3773
 Num threads =   1
-Parallel duration =   11.6203
-Acceleration =   -0.281576
+Parallel duration =   11.6722
+Acceleration =   -0.294939
 ...................... 
 Num threads =   2
-Parallel duration =   5.8197
-Acceleration =   5.51901
+Parallel duration =   5.74057
+Acceleration =   5.63671
 ...................... 
 Num threads =   3
-Parallel duration =   3.89553
-Acceleration =   7.44318
+Parallel duration =   3.89347
+Acceleration =   7.4838
 ...................... 
 Num threads =   4
-Parallel duration =   3.12366
-Acceleration =   8.21504
+Parallel duration =   3.14272
+Acceleration =   8.23456
 ...................... 
 ........../Finish iteration!/............ 
 K =  8000
 N =  8000
-Linear Duration =   12.9327
+Linear Duration =   13.1185
 Num threads =   1
-Parallel duration =   13.2072
-Acceleration =   -0.274527
+Parallel duration =   13.3717
+Acceleration =   -0.253184
 ...................... 
 Num threads =   2
-Parallel duration =   6.64621
-Acceleration =   6.28651
+Parallel duration =   6.59173
+Acceleration =   6.52679
 ...................... 
 Num threads =   3
-Parallel duration =   4.45655
-Acceleration =   8.47617
+Parallel duration =   4.4515
+Acceleration =   8.66702
 ...................... 
 Num threads =   4
-Parallel duration =   3.5633
-Acceleration =   9.36942
+Parallel duration =   3.60145
+Acceleration =   9.51707
 ...................... 
 ........../Finish iteration!/............ 
 K =  9000
 N =  8000
-Linear Duration =   14.7187
+Linear Duration =   14.6826
 Num threads =   1
-Parallel duration =   14.9353
-Acceleration =   -0.216537
+Parallel duration =   15.0244
+Acceleration =   -0.341817
 ...................... 
 Num threads =   2
-Parallel duration =   7.43856
-Acceleration =   7.28017
+Parallel duration =   7.41986
+Acceleration =   7.26271
 ...................... 
 Num threads =   3
-Parallel duration =   5.03395
-Acceleration =   9.68477
+Parallel duration =   5.00978
+Acceleration =   9.67279
 ...................... 
 Num threads =   4
-Parallel duration =   3.96886
-Acceleration =   10.7499
+Parallel duration =   4.00108
+Acceleration =   10.6815
 ...................... 
 ........../Finish iteration!/............ 
 K =  10000
 N =  8000
-Linear Duration =   16.4327
+Linear Duration =   16.1675
 Num threads =   1
-Parallel duration =   16.724
-Acceleration =   -0.291335
+Parallel duration =   16.5079
+Acceleration =   -0.340329
 ...................... 
 Num threads =   2
-Parallel duration =   8.30124
-Acceleration =   8.13146
+Parallel duration =   8.25471
+Acceleration =   7.91281
 ...................... 
 Num threads =   3
-Parallel duration =   5.52581
-Acceleration =   10.9069
+Parallel duration =   5.58067
+Acceleration =   10.5869
 ...................... 
 Num threads =   4
-Parallel duration =   4.37619
-Acceleration =   12.0565
+Parallel duration =   4.4749
+Acceleration =   11.6926
 ...................... 
 ........../Finish iteration!/............ 
 K =  1000
 N =  9000
-Linear Duration =   1.82154
+Linear Duration =   1.81097
 Num threads =   1
-Parallel duration =   1.98017
-Acceleration =   -0.158625
+Parallel duration =   1.92806
+Acceleration =   -0.117094
 ...................... 
 Num threads =   2
-Parallel duration =   0.94778
-Acceleration =   0.873761
+Parallel duration =   0.951218
+Acceleration =   0.859753
 ...................... 
 Num threads =   3
-Parallel duration =   0.674909
-Acceleration =   1.14663
+Parallel duration =   0.684731
+Acceleration =   1.12624
 ...................... 
 Num threads =   4
-Parallel duration =   0.655963
-Acceleration =   1.16558
+Parallel duration =   0.613691
+Acceleration =   1.19728
 ...................... 
 ........../Finish iteration!/............ 
 K =  2000
 N =  9000
-Linear Duration =   3.62671
+Linear Duration =   3.64074
 Num threads =   1
-Parallel duration =   3.82035
-Acceleration =   -0.193636
+Parallel duration =   3.77395
+Acceleration =   -0.13322
 ...................... 
 Num threads =   2
-Parallel duration =   1.86928
-Acceleration =   1.75743
+Parallel duration =   1.86756
+Acceleration =   1.77318
 ...................... 
 Num threads =   3
-Parallel duration =   1.33918
-Acceleration =   2.28754
+Parallel duration =   1.33691
+Acceleration =   2.30383
 ...................... 
 Num threads =   4
-Parallel duration =   1.09132
-Acceleration =   2.5354
+Parallel duration =   1.05283
+Acceleration =   2.5879
 ...................... 
 ........../Finish iteration!/............ 
 K =  3000
 N =  9000
-Linear Duration =   5.49259
+Linear Duration =   5.45576
 Num threads =   1
-Parallel duration =   5.62583
-Acceleration =   -0.133241
+Parallel duration =   5.66474
+Acceleration =   -0.208979
 ...................... 
 Num threads =   2
-Parallel duration =   2.83961
-Acceleration =   2.65298
+Parallel duration =   2.80277
+Acceleration =   2.65299
 ...................... 
 Num threads =   3
-Parallel duration =   1.90814
-Acceleration =   3.58445
+Parallel duration =   1.99263
+Acceleration =   3.46313
 ...................... 
 Num threads =   4
-Parallel duration =   1.55024
-Acceleration =   3.94235
+Parallel duration =   1.52803
+Acceleration =   3.92773
 ...................... 
 ........../Finish iteration!/............ 
 K =  4000
 N =  9000
-Linear Duration =   7.31376
+Linear Duration =   7.29663
 Num threads =   1
-Parallel duration =   7.58907
-Acceleration =   -0.275313
+Parallel duration =   7.47461
+Acceleration =   -0.17798
 ...................... 
 Num threads =   2
-Parallel duration =   3.73453
-Acceleration =   3.57923
+Parallel duration =   3.73387
+Acceleration =   3.56276
 ...................... 
 Num threads =   3
-Parallel duration =   2.49554
-Acceleration =   4.81822
+Parallel duration =   2.54731
+Acceleration =   4.74932
 ...................... 
 Num threads =   4
-Parallel duration =   2.05531
-Acceleration =   5.25845
+Parallel duration =   2.02137
+Acceleration =   5.27526
 ...................... 
 ........../Finish iteration!/............ 
 K =  5000
 N =  9000
-Linear Duration =   9.15035
+Linear Duration =   9.18801
 Num threads =   1
-Parallel duration =   9.33951
-Acceleration =   -0.189161
+Parallel duration =   9.27746
+Acceleration =   -0.0894512
 ...................... 
 Num threads =   2
-Parallel duration =   4.67346
-Acceleration =   4.47689
+Parallel duration =   4.62506
+Acceleration =   4.56295
 ...................... 
 Num threads =   3
-Parallel duration =   3.14436
-Acceleration =   6.00599
+Parallel duration =   3.13409
+Acceleration =   6.05392
 ...................... 
 Num threads =   4
-Parallel duration =   2.46895
-Acceleration =   6.6814
+Parallel duration =   2.54031
+Acceleration =   6.6477
 ...................... 
 ........../Finish iteration!/............ 
 K =  6000
 N =  9000
-Linear Duration =   10.9343
+Linear Duration =   11.8944
 Num threads =   1
-Parallel duration =   11.2564
-Acceleration =   -0.322102
+Parallel duration =   11.2042
+Acceleration =   0.690164
 ...................... 
 Num threads =   2
-Parallel duration =   5.5838
-Acceleration =   5.35052
+Parallel duration =   5.57161
+Acceleration =   6.32276
 ...................... 
 Num threads =   3
-Parallel duration =   3.79196
-Acceleration =   7.14236
+Parallel duration =   3.75623
+Acceleration =   8.13813
 ...................... 
 Num threads =   4
-Parallel duration =   3.46774
-Acceleration =   7.46658
+Parallel duration =   3.45335
+Acceleration =   8.44101
 ...................... 
 ........../Finish iteration!/............ 
 K =  7000
 N =  9000
-Linear Duration =   12.7228
+Linear Duration =   12.7199
 Num threads =   1
-Parallel duration =   13.0805
-Acceleration =   -0.357713
+Parallel duration =   12.9574
+Acceleration =   -0.23756
 ...................... 
 Num threads =   2
-Parallel duration =   6.49886
-Acceleration =   6.22394
+Parallel duration =   6.46338
+Acceleration =   6.25649
 ...................... 
 Num threads =   3
-Parallel duration =   4.44255
-Acceleration =   8.28025
+Parallel duration =   4.44478
+Acceleration =   8.2751
 ...................... 
 Num threads =   4
-Parallel duration =   3.49279
-Acceleration =   9.23001
+Parallel duration =   3.56618
+Acceleration =   9.1537
 ...................... 
 ........../Finish iteration!/............ 
 K =  8000
 N =  9000
-Linear Duration =   14.5741
+Linear Duration =   14.5888
 Num threads =   1
-Parallel duration =   14.8693
-Acceleration =   -0.295251
+Parallel duration =   14.8672
+Acceleration =   -0.278435
 ...................... 
 Num threads =   2
-Parallel duration =   7.40004
-Acceleration =   7.17402
+Parallel duration =   7.43782
+Acceleration =   7.15098
 ...................... 
 Num threads =   3
-Parallel duration =   4.98899
-Acceleration =   9.58507
+Parallel duration =   5.01683
+Acceleration =   9.57197
 ...................... 
 Num threads =   4
-Parallel duration =   3.92965
-Acceleration =   10.6444
+Parallel duration =   3.99993
+Acceleration =   10.5889
 ...................... 
 ........../Finish iteration!/............ 
 K =  9000
 N =  9000
-Linear Duration =   16.4326
+Linear Duration =   16.4308
 Num threads =   1
-Parallel duration =   16.6719
-Acceleration =   -0.23928
+Parallel duration =   16.6203
+Acceleration =   -0.18958
 ...................... 
 Num threads =   2
-Parallel duration =   8.3815
-Acceleration =   8.05108
+Parallel duration =   8.31958
+Acceleration =   8.11118
 ...................... 
 Num threads =   3
-Parallel duration =   5.62781
-Acceleration =   10.8048
+Parallel duration =   5.65864
+Acceleration =   10.7721
 ...................... 
 Num threads =   4
-Parallel duration =   4.39176
-Acceleration =   12.0408
+Parallel duration =   4.52405
+Acceleration =   11.9067
 ...................... 
 ........../Finish iteration!/............ 
 K =  10000
 N =  9000
-Linear Duration =   18.2798
+Linear Duration =   18.3823
 Num threads =   1
-Parallel duration =   18.808
-Acceleration =   -0.528207
+Parallel duration =   18.7174
+Acceleration =   -0.335117
 ...................... 
 Num threads =   2
-Parallel duration =   9.32291
-Acceleration =   8.95687
+Parallel duration =   9.30113
+Acceleration =   9.08113
 ...................... 
 Num threads =   3
-Parallel duration =   6.21695
-Acceleration =   12.0628
+Parallel duration =   6.22935
+Acceleration =   12.1529
 ...................... 
 Num threads =   4
-Parallel duration =   4.87621
-Acceleration =   13.4036
+Parallel duration =   5.06233
+Acceleration =   13.3199
 ...................... 
 ........../Finish iteration!/............ 

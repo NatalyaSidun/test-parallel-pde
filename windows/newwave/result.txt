@@ -1,0 +1,276 @@
+tau =  0.0002
+tk =  2
+t0 =  0
+T =  10000
+N =  5000
+tau =  0.000181818
+tk =  2
+t0 =  0
+T =  11000
+N =  5000
+Linear time =   6.93511e-308
+Num threads =  1
+Acceleration =   -0.0365831
+...................... 
+Num threads =  2
+Acceleration =   0.362056
+...................... 
+Num threads =  3
+Acceleration =   0.445348
+...................... 
+Num threads =  4
+Acceleration =   0.453508
+...................... 
+----------//------------- 
+tau =  0.000166667
+tk =  2
+t0 =  0
+T =  12000
+N =  5000
+Linear time =   0.801596
+Num threads =  1
+Acceleration =   -0.145775
+...................... 
+Num threads =  2
+Acceleration =   0.394553
+...................... 
+Num threads =  3
+Acceleration =   0.505198
+...................... 
+Num threads =  4
+Acceleration =   0.511703
+...................... 
+----------//------------- 
+tau =  0.000153846
+tk =  2
+t0 =  0
+T =  13000
+N =  5000
+Linear time =   0.874715
+Num threads =  1
+Acceleration =   -0.113794
+...................... 
+Num threads =  2
+Acceleration =   0.427851
+...................... 
+Num threads =  3
+Acceleration =   0.572344
+...................... 
+Num threads =  4
+Acceleration =   0.541907
+...................... 
+----------//------------- 
+tau =  0.000142857
+tk =  2
+t0 =  0
+T =  14000
+N =  5000
+Linear time =   0.944507
+Num threads =  1
+Acceleration =   -0.167968
+...................... 
+Num threads =  2
+Acceleration =   0.447224
+...................... 
+Num threads =  3
+Acceleration =   0.62517
+...................... 
+Num threads =  4
+Acceleration =   0.628342
+...................... 
+----------//------------- 
+tau =  0.000133333
+tk =  2
+t0 =  0
+T =  15000
+N =  5000
+Linear time =   1.02107
+Num threads =  1
+Acceleration =   -0.118971
+...................... 
+Num threads =  2
+Acceleration =   0.512967
+...................... 
+Num threads =  3
+Acceleration =   0.680811
+...................... 
+Num threads =  4
+Acceleration =   0.683359
+...................... 
+----------//------------- 
+tau =  0.0002
+tk =  2
+t0 =  0
+T =  10000
+N =  6000
+tau =  0.000181818
+tk =  2
+t0 =  0
+T =  11000
+N =  6000
+tau =  0.000166667
+tk =  2
+t0 =  0
+T =  12000
+N =  6000
+tau =  0.000153846
+tk =  2
+t0 =  0
+T =  13000
+N =  6000
+Linear time =   1.09902
+Num threads =  1
+Acceleration =   -0.107338
+...................... 
+Num threads =  2
+Acceleration =   0.556588
+...................... 
+Num threads =  3
+Acceleration =   0.689545
+...................... 
+Num threads =  4
+Acceleration =   0.654563
+...................... 
+----------//------------- 
+tau =  0.000142857
+tk =  2
+t0 =  0
+T =  14000
+N =  6000
+Linear time =   1.13826
+Num threads =  1
+Acceleration =   -0.193669
+...................... 
+Num threads =  2
+Acceleration =   0.564516
+...................... 
+Num threads =  3
+Acceleration =   0.726591
+...................... 
+Num threads =  4
+Acceleration =   0.786675
+...................... 
+----------//------------- 
+tau =  0.000133333
+tk =  2
+t0 =  0
+T =  15000
+N =  6000
+Linear time =   1.23051
+Num threads =  1
+Acceleration =   -0.157716
+...................... 
+Num threads =  2
+Acceleration =   0.639071
+...................... 
+Num threads =  3
+Acceleration =   0.755069
+...................... 
+Num threads =  4
+Acceleration =   0.858976
+...................... 
+----------//------------- 
+tau =  0.0002
+tk =  2
+t0 =  0
+T =  10000
+N =  7000
+tau =  0.000181818
+tk =  2
+t0 =  0
+T =  11000
+N =  7000
+tau =  0.000166667
+tk =  2
+t0 =  0
+T =  12000
+N =  7000
+tau =  0.000153846
+tk =  2
+t0 =  0
+T =  13000
+N =  7000
+tau =  0.000142857
+tk =  2
+t0 =  0
+T =  14000
+N =  7000
+tau =  0.000133333
+tk =  2
+t0 =  0
+T =  15000
+N =  7000
+Linear time =   1.3295
+Num threads =  1
+Acceleration =   -0.149137
+...................... 
+Num threads =  2
+Acceleration =   0.687791
+...................... 
+Num threads =  3
+Acceleration =   0.866603
+...................... 
+Num threads =  4
+Acceleration =   1.04164
+...................... 
+----------//------------- 
+tau =  0.0002
+tk =  2
+t0 =  0
+T =  10000
+N =  8000
+tau =  0.000181818
+tk =  2
+t0 =  0
+T =  11000
+N =  8000
+tau =  0.000166667
+tk =  2
+t0 =  0
+T =  12000
+N =  8000
+tau =  0.000153846
+tk =  2
+t0 =  0
+T =  13000
+N =  8000
+tau =  0.000142857
+tk =  2
+t0 =  0
+T =  14000
+N =  8000
+tau =  0.000133333
+tk =  2
+t0 =  0
+T =  15000
+N =  8000
+tau =  0.0002
+tk =  2
+t0 =  0
+T =  10000
+N =  9000
+tau =  0.000181818
+tk =  2
+t0 =  0
+T =  11000
+N =  9000
+tau =  0.000166667
+tk =  2
+t0 =  0
+T =  12000
+N =  9000
+tau =  0.000153846
+tk =  2
+t0 =  0
+T =  13000
+N =  9000
+tau =  0.000142857
+tk =  2
+t0 =  0
+T =  14000
+N =  9000
+tau =  0.000133333
+tk =  2
+t0 =  0
+T =  15000
+N =  9000

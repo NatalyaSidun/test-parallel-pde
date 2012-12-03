@@ -1,4 +1,4 @@
-﻿Построение начато 10.10.2012 9:01:43.
+﻿Построение начато 03.12.2012 8:45:31.
      1>Проект "E:\YandexDisk\test-parallel-pde\windows\parabol\parabol.vcxproj" в узле 2 (целевые объекты build).
      1>InitializeBuildStatus:
          Создание "Debug\parabol.unsuccessfulbuild", так как было задано "AlwaysCreate".
@@ -27,4 +27,4 @@
 
 Построение успешно завершено.
 
-Затраченное время: 00:00:02.06
+Затраченное время: 00:00:07.85

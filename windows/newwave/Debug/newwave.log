@@ -1,0 +1,76 @@
+﻿Построение начато 16.10.2012 0:03:38.
+     1>Проект "E:\YandexDisk\test-parallel-pde\windows\newwave\newwave.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\newwave.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       GenerateTargetFrameworkMonikerAttribute:
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /openmp /Yu"StdAfx.h" /Fp"Debug\newwave.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt newwave.cpp /clr:nostdlib 
+         newwave.cpp
+     1>newwave.cpp(62): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 newwave.cpp(37): пропуск определения "i"
+                 newwave.cpp(18): используется определение "i"
+     1>newwave.cpp(62): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 newwave.cpp(37): пропуск определения "i"
+                 newwave.cpp(18): используется определение "i"
+     1>newwave.cpp(62): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 newwave.cpp(37): пропуск определения "i"
+                 newwave.cpp(18): используется определение "i"
+     1>newwave.cpp(63): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 newwave.cpp(37): пропуск определения "i"
+                 newwave.cpp(18): используется определение "i"
+     1>newwave.cpp(81): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 newwave.cpp(72): пропуск определения "i"
+                 newwave.cpp(18): используется определение "i"
+     1>newwave.cpp(115): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 newwave.cpp(72): пропуск определения "i"
+                 newwave.cpp(18): используется определение "i"
+     1>newwave.cpp(115): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 newwave.cpp(72): пропуск определения "i"
+                 newwave.cpp(18): используется определение "i"
+     1>newwave.cpp(115): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 newwave.cpp(72): пропуск определения "i"
+                 newwave.cpp(18): используется определение "i"
+     1>newwave.cpp(116): warning C4258: i: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 newwave.cpp(72): пропуск определения "i"
+                 newwave.cpp(18): используется определение "i"
+     1>newwave.cpp(83): warning C4101: j: неиспользованная локальная переменная
+     1>newwave.cpp(83): warning C4101: i: неиспользованная локальная переменная
+     1>newwave.cpp(125): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>newwave.cpp(179): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(304): см. объявление "scanf"
+     1>newwave.cpp(182): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(304): см. объявление "scanf"
+     1>newwave.cpp(186): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(304): см. объявление "scanf"
+     1>newwave.cpp(189): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(304): см. объявление "scanf"
+     1>newwave.cpp(192): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(304): см. объявление "scanf"
+     1>newwave.cpp(195): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(304): см. объявление "scanf"
+     1>newwave.cpp(176): warning C4101: parallel_seidel_duration: неиспользованная локальная переменная
+     1>newwave.cpp(176): warning C4101: linear_siedel_duration: неиспользованная локальная переменная
+     1>newwave.cpp(176): warning C4101: duration: неиспользованная локальная переменная
+     1>e:\yandexdisk\test-parallel-pde\windows\newwave\newwave.cpp(246): warning C4700: использована неинициализированная локальная переменная "linear_duration"
+         Для всех выходных данных обновления не требуется.
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\YandexDisk\test-parallel-pde\windows\newwave\Debug\newwave.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\newwave.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\YandexDisk\test-parallel-pde\windows\newwave\Debug\newwave.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\newwave.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         newwave.vcxproj -> E:\YandexDisk\test-parallel-pde\windows\newwave\Debug\newwave.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\YandexDisk\test-parallel-pde\windows\newwave\Debug\newwave.exe;#1" /manifest Debug\newwave.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\newwave.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\newwave.lastbuildstate".
+     1>Построение проекта "E:\YandexDisk\test-parallel-pde\windows\newwave\newwave.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.03
